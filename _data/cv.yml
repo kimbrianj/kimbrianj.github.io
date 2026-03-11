@@ -33,7 +33,7 @@ cv:
       - company: "University of Maryland"
         position: "Co-Director, Social Data Science Major"
         start_date: "2021-10"
-        end_date: present
+        end_date: 
         location: "College Park, MD"
         highlights:
           - "Led the development of a new major in Social Data Science
@@ -53,7 +53,7 @@ cv:
       - company: "University of Maryland"
         position: Director of Graduate Studies, Joint Program in Survey Methodology
         start_date: "2024-09"
-        end_date: present
+        end_date: 
         location: "College Park, MD"
         highlights:
           - "Oversaw updates to the Master’s in Survey and Data Science program,
