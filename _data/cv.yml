@@ -69,59 +69,20 @@ cv:
             Science); a data disclosure-proofing project (SURV 622: Fundamentals
             of Data Collection); and a custom R package containing tutorials
             (SURV 613: Machine Learning for Social Science)."
-          - "Taught classes on introductory statistics, data science, machine
-            learning, and programming for both undergraduate and graduate
-            students, utilizing traditional and flipped classroom formats in
-            online, in-person, and HyFlex modes."
-          - "As part of an NSF grant, managed and oversaw the development and
-            day-to-day operations of data analytics training courses for working
-            professionals and graduate students at the National Center for
-            Science and Engineering Statistics (NCSES) at the National Science
-            Foundation (NSF)."
+          - "Taught classes on introductory statistics, data science, machine learning, and programming for both undergraduate and graduate students, utilizing traditional and flipped classroom formats in online, in-person, and HyFlex modes."
+          - "As part of an NSF grant, managed and oversaw the development and day-to-day operations of data analytics training courses for working professionals and graduate students at the National Center for Science and Engineering Statistics (NCSES) at the National Science Foundation (NSF)."
       - company: "Joint Program in Survey Methodology, University of Maryland"
         position: "Assistant Research Professor"
         start_date: "2020-08"
         end_date: "2024-07"
         location: "College Park, MD"
-        highlights:
-          - "Developed and implemented innovative teaching assignments and tools
-            including: cloud-based programming workbooks using JupyterHub
-            (multiple classes); a board game decision analysis project for an
-            undergraduate class (INST 354: Decision Making for Information
-            Science); a data disclosure-proofing project (SURV 622: Fundamentals
-            of Data Collection); and a custom R package containing tutorials
-            (SURV 613: Machine Learning for Social Science)."
-          - "Taught classes on introductory statistics, data science, machine
-            learning, and programming for both undergraduate and graduate
-            students, utilizing traditional and flipped classroom formats in
-            online, in-person, and HyFlex modes."
-          - "As part of an NSF grant, managed and oversaw the development and
-            day-to-day operations of data analytics training courses for working
-            professionals and graduate students at the National Center for
-            Science and Engineering Statistics (NCSES) at the National Science
-            Foundation (NSF)."
+
       - company: "Joint Program in Survey Methodology, University of Maryland"
-        position: "Lecturer"
+        position: Lecturer
         start_date: "2017-10"
         end_date: "2020-08"
         location: "College Park, MD"
-        highlights:
-          - "Developed and implemented innovative teaching assignments and tools
-            including: cloud-based programming workbooks using JupyterHub
-            (multiple classes); a board game decision analysis project for an
-            undergraduate class (INST 354: Decision Making for Information
-            Science); a data disclosure-proofing project (SURV 622: Fundamentals
-            of Data Collection); and a custom R package containing tutorials
-            (SURV 613: Machine Learning for Social Science)."
-          - "Taught classes on introductory statistics, data science, machine
-            learning, and programming for both undergraduate and graduate
-            students, utilizing traditional and flipped classroom formats in
-            online, in-person, and HyFlex modes."
-          - "As part of an NSF grant, managed and oversaw the development and
-            day-to-day operations of data analytics training courses for working
-            professionals and graduate students at the National Center for
-            Science and Engineering Statistics (NCSES) at the National Science
-            Foundation (NSF)."
+
       - company: "The Coleridge Initiative"
         position: "Consultant/Facilitator"
         start_date: "2020-09"
@@ -135,12 +96,11 @@ cv:
             imputation with large scale transaction-level purchasing data."
           - "Developed modularized lessons and notebooks for introductory
             statistics and programming in Python, R and SQL."
-      - company: "Institute for Digital Research and Education, University of
-          California, Los Angeles"
+      - company: "UCLA Institute for Digital Research and Education"
         position: "Statistical Consultant"
         start_date: "2014-05"
         end_date: "2016-06"
-        location: "University of California, Los Angeles"
+        location: "Los Angeles, CA"
         highlights:
           - "Assisted graduate students and professors in Psychology, Economics,
             Education, and other fields in cleaning, merging, and preparing data
@@ -151,7 +111,8 @@ cv:
             software."
       - company: "UCLA Institute for Pure and Applied Mathematics"
         position: "Academic Mentor"
-        date: "Summers 2015, 2016, 2017"
+        start_date: 2015
+        end_date: 2017
         location: "UCLA"
         highlights:
           - "Mentored a team of four undergraduate students with a research
@@ -162,18 +123,17 @@ cv:
             collaboration between students and advising students throughout the
             full research lifecycle."
     Publications:
-      - title: "Using a Stopping Rule to Optimize Cost-Quality Tradeoffs in a Large,
-          Mixed-Mode Survey: A Simulation Study"
+      - title: "Using a Stopping Rule to Optimize Cost-Quality Tradeoffs in a Large, Mixed-Mode Survey: A Simulation Study"
         authors:
-          - "K. Wagner"
-          - "B. West"
-          - "*B. Kim*"
-          - "D. Suolang"
-          - "C. Engstrom"
-          - "J. Sinibaldi"
-        journal: "Journal of Official Statistics. 41 (1), 329-364"
-        date: "2025"
-        doi: "10.1177/0282423X241287452"
+          - James Wagner
+          - Brady West
+          - **Brian Kim**
+          - Deji Suolang
+          - Curtiss Engstrom
+          - Jennifer Sinibaldi
+        publisher: Journal of Official Statistics. 41 (1), 329-364
+        releaseDate: 2025
+        url: "10.1177/0282423X241287452"
       - title: "Hidden Population Size Estimation and Diagnostics Using Two
           Respondent-Driven Samples with Applications in Armenia"
         authors:
