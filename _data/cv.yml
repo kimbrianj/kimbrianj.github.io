@@ -33,7 +33,7 @@ cv:
       - company: "University of Maryland"
         position: "Co-Director, Social Data Science Major"
         start_date: "2021-10"
-        end_date: 
+        end_date: "present"
         location: "College Park, MD"
         highlights:
           - "Led the development of a new major in Social Data Science
@@ -53,7 +53,7 @@ cv:
       - company: "University of Maryland"
         position: Director of Graduate Studies, Joint Program in Survey Methodology
         start_date: "2024-09"
-        end_date: 
+        end_date: "present"
         location: "College Park, MD"
         highlights:
           - "Oversaw updates to the Master’s in Survey and Data Science program,
@@ -67,7 +67,7 @@ cv:
       - company: "Joint Program in Survey Methodology, University of Maryland"
         position: "Associate Research Professor"
         start_date: "2024-07"
-        end_date: present
+        end_date: "present"
         location: "College Park, MD"
         highlights:
           - "Developed and implemented innovative teaching assignments and tools
@@ -197,7 +197,7 @@ cv:
       - title: "Using Geographical Data and Rolling Statistics for Diagnostics of
           Respondent-Driven Sampling"
         authors:
-          - "**B. Kim**"
+          - "*B. Kim*"
           - "M. Ogwal"
           - "E. Sande"
           - "H. Kiyingi"
@@ -209,14 +209,14 @@ cv:
       - title: "Population Size Estimation Using Multiple Respondent-Driven Sampling
           Surveys"
         authors:
-          - "**B. Kim**"
+          - "*B. Kim*"
           - "M. Handcock"
         journal: "Journal of Survey Statistics and Methodology. 9(1), 94-120"
         date: "2021"
         doi: "10.1093/jssam/smz055"
       - title: "Easy-to-Use Cloud Computing for Teaching Data Science"
         authors:
-          - "**B. Kim**"
+          - "*B. Kim*"
           - "G. Henke"
         journal: "Journal of Statistics Education. 29:sup1, S103-S111"
         date: "2020"
@@ -233,7 +233,7 @@ cv:
           - "J. Fan"
           - "T. Galili"
           - "D. Haimovich"
-          - "**B. Kim**"
+          - "*B. Kim*"
           - "S. LaRocca"
           - "Y. Li"
           - "K. Morris"
@@ -426,7 +426,7 @@ cv:
       - company: "University of Maryland"
         position: "Instructor"
         start_date: "2017-10"
-        end_date: present
+        end_date: "present"
         highlights:
           - "SDSB180 (formerly BSOS180): Introduction to Data Management (Fall
             2024, Spring 2025, Fall 2025, Spring 2026)"
@@ -512,78 +512,3 @@ cv:
       - label: "Other Software"
         details: "Skilled or proficient in the use of many other programs, including,
           but not limited to, Microsoft Word, Excel and Powerpoint; LaTeX."
-        area: Mathematics & Philosophy
-        studyType: BA
-        start_date: 2008
-        end_date: 2012
-        highlights:
-          - Graduated with Honors in Mathematics
-          - **Thesis:** Using Mode Identification Clustering Methods with Pitch F/X Data
-
-    Experience:
-      - company: College of Behavioral and Social Sciences
-        position: Co-Director, Social Data Science major
-        location: College Park, MD
-        start_date: 2021
-        end_date: Present
-        highlights: 
-          - Led the development of a new major in Social Data Science (officially launched Fall 2022), including working across departments to build an appropriate curriculum, managing the budget, and setting up infrastructure.
-          - Developed new courses to be part of Social Data Science, including SDSB233 (Data Science for Social Sciences) and SDSB326 (Python Programming for Social Science).
-          - Launched a new undergraduate Data Curation Fellowship experience in which students identify, obtain, clean, and curate datasets to be used within social science courses, with a [public-facing data resource webpage](https://bsos-data.umd.edu). 
-          - Coordinated across colleges with the College of Information Co-Director to set up advising, teaching workload, and major requirements for students.
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Python and R Programming
-        level: Expert
-        icon: fa-solid fa-hashtag
-        keywords: "pandas, scikit-learn, tensorflow, keras, tidyverse, tidymodels, Rcpp"
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
