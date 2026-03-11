@@ -145,7 +145,7 @@ cv:
           - "K. R. McLaughlin"
         journal: "Biometrical Journal, 00, 2200136"
         date: "2023"
-        doi: "10.1002/bimj.202200136"
+        url: "https://www.doi.org/10.1002/bimj.202200136"
       - title: "Using Geographical Data and Rolling Statistics for Diagnostics of
           Respondent-Driven Sampling"
         authors:
@@ -157,7 +157,7 @@ cv:
           - "W. Hladik"
         journal: "Social Networks. 69, 74-83"
         date: "2022"
-        doi: "10.1016/j.socnet.2020.05.001"
+        url: "https://www.doi.org/10.1016/j.socnet.2020.05.001"
       - title: "Population Size Estimation Using Multiple Respondent-Driven Sampling
           Surveys"
         authors:
@@ -165,14 +165,14 @@ cv:
           - "M. Handcock"
         journal: "Journal of Survey Statistics and Methodology. 9(1), 94-120"
         date: "2021"
-        doi: "10.1093/jssam/smz055"
+        url: "https://www.doi.org/10.1093/jssam/smz055"
       - title: "Easy-to-Use Cloud Computing for Teaching Data Science"
         authors:
           - "*B. Kim*"
           - "G. Henke"
         journal: "Journal of Statistics Education. 29:sup1, S103-S111"
         date: "2020"
-        doi: "10.1080/10691898.2020.1860726"
+        url: "https://www.doi.org/10.1080/10691898.2020.1860726"
       - title: "Partnering with a global platform to inform research and public policy
           making"
         authors:
@@ -197,7 +197,7 @@ cv:
           - "R. Tibshirani"
         journal: "Survey Research Methods, 14(2), 159-163"
         date: "2020"
-        doi: "10.18148/srm/2020.v14i2.7761"
+        url: "https://www.doi.org/10.18148/srm/2020.v14i2.7761"
     Software and Data:
       - title: "sspse: Estimating Hidden Population Size using Respondent Driven
           Sampling Data"
