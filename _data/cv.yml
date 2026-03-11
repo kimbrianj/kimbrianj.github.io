@@ -25,10 +25,10 @@ cv:
             Data"
         start_date: 2008-09
     research_interests:
-      - bullet: Data Science Education; Social Network Analysis; Network Sampling
+      - bullet: "Data Science Education; Social Network Analysis; Network Sampling
           Methods; Respondent-Driven Sampling; Population Size Estimation:
           Capture-Recapture and Multiple List methods; Social Science
-          Applications of Machine Learning
+          Applications of Machine Learning"
     experience:
       - company: University of Maryland
         position: Co-Director, Social Data Science Major
