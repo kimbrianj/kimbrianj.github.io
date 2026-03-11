@@ -36,7 +36,7 @@ nav_order: 4
 {% endif %}
 
 {% if site.data.repositories.github_repos %}
---!>
+-->
 ## GitHub Repositories
 Some selected GitHub repositories containing course and teaching material.
 
