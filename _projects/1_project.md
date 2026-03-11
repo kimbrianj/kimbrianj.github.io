@@ -2,7 +2,7 @@
 layout: page
 title: JupyterHub for Programming Courses at University of Maryland 
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/jupyter-logo.png
 importance: 1
 category: work
 related_publications: true
