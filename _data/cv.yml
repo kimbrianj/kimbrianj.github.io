@@ -143,8 +143,8 @@ cv:
           - "A. Papoyan"
           - "S. Grigoryan"
           - "K. R. McLaughlin"
-        journal: "Biometrical Journal, 00, 2200136"
-        date: "2023"
+        publisher: "Biometrical Journal, 00, 2200136"
+        releaseDate: "2023-06"
         url: "https://www.doi.org/10.1002/bimj.202200136"
       - title: "Using Geographical Data and Rolling Statistics for Diagnostics of
           Respondent-Driven Sampling"
@@ -156,7 +156,7 @@ cv:
           - "D. Serwadda"
           - "W. Hladik"
         journal: "Social Networks. 69, 74-83"
-        date: "2022"
+        releaseDate: "2022-05"
         url: "https://www.doi.org/10.1016/j.socnet.2020.05.001"
       - title: "Population Size Estimation Using Multiple Respondent-Driven Sampling
           Surveys"
@@ -164,14 +164,14 @@ cv:
           - "*B. Kim*"
           - "M. Handcock"
         journal: "Journal of Survey Statistics and Methodology. 9(1), 94-120"
-        date: "2021"
+        releaseDate: "2021-02"
         url: "https://www.doi.org/10.1093/jssam/smz055"
       - title: "Easy-to-Use Cloud Computing for Teaching Data Science"
         authors:
           - "*B. Kim*"
           - "G. Henke"
         journal: "Journal of Statistics Education. 29:sup1, S103-S111"
-        date: "2020"
+        releaseDate: "2020"
         url: "https://www.doi.org/10.1080/10691898.2020.1860726"
       - title: "Partnering with a global platform to inform research and public policy
           making"
@@ -196,7 +196,7 @@ cv:
           - "E. A. Stuart"
           - "R. Tibshirani"
         journal: "Survey Research Methods, 14(2), 159-163"
-        date: "2020"
+        releaseDate: "2020-06"
         url: "https://www.doi.org/10.18148/srm/2020.v14i2.7761"
     Software and Data:
       - title: "sspse: Estimating Hidden Population Size using Respondent Driven
@@ -207,7 +207,7 @@ cv:
           - "*B. Kim*"
           - "K. McLaughlin"
         journal: "R package version 1.0.3, Los Angeles, CA."
-        date: "2022"
+        releaseDate: "2022"
         url: "https://CRAN.R-project.org/package=sspse"
       - title: "The University of Maryland social data science center global COVID-19
           trends and impact survey, in partnership with Facebook"
@@ -233,7 +233,7 @@ cv:
           - "J. Salomon"
           - "D. Vannette"
         journal: "University of Maryland"
-        date: "2020"
+        releaseDate: "2020"
         url: "https://covidmap.umd.edu/api.html"
     Book Chapters and Non-Refereed Publications:
       - title: "The Value of Science: Special Theme"
@@ -243,13 +243,13 @@ cv:
           - "F. Kreuter"
           - "A. Nunez"
         journal: "Harvard Data Science Review"
-        date: "2022"
+        releaseDate: "2022"
         doi: "10.1162/99608f92.4a01213d"
       - title: "Scaling Up Data Science for the Social Sciences"
         authors:
           - "*B. Kim*"
         journal: "Harvard Data Science Review"
-        date: "2021"
+        releaseDate: "2021"
         doi: "10.1162/99608f92.d3f14ea4"
       - title: "Workbooks"
         authors:
@@ -258,16 +258,14 @@ cv:
           - "J. Morgan"
           - "C. Hunter"
           - "A. Kumar"
-        journal: "Big Data and Social Science, 2nd Edition. Chapman and Hall/CRC Press.
-          333-339"
-        date: "2021"
+        journal: "Big Data and Social Science, 2nd Edition. Chapman and Hall/CRC Press. 333-339"
+        releaseDate: "2021"
         url: "https://textbook.coleridgeinitiative.org/chap-workbooks.html"
     Selected Conference Presentations:
       - name: "A Hybrid Household and Respondent-Driven Sampling Strategy for Reaching
           Underrepresented Groups"
         date: "August 2023"
         location: "Joint Statistical Meetings, Toronto, CA"
-        summary: "Presented with Ariana Gard."
       - name: "Machine Learning Model Selection for Complex Sample Survey Data"
         date: "August 2020"
         location: "Symposium on Data Science and Statistics"
@@ -278,16 +276,12 @@ cv:
           Surveys"
         date: "August 2019"
         location: "Joint Statistical Meetings, Denver, CO"
-        summary: "Presented with M. Handcock."
       - name: "Teaching Data Science Using Jupyter Notebooks and Binder"
         date: "May 2019"
         location: "Symposium on Data Science and Statistics, Bellevue, WA"
-        summary: "Presented with G. Henke."
       - name: "Assessing Respondent-Driven Sampling Using Geographical Data"
         date: "November 2018"
         location: "North American Social Network Conference, Washington, D.C."
-        summary: "Presented with M. Ogwal, E. Sande, H. Kiyingi, D. Serwadda, and W.
-          Hladik."
     Grants:
       - name: "UMD Artificial Intelligence Interdisciplinary Institute: Course
           Development Grant"
