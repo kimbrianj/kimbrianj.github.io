@@ -483,7 +483,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/Brian_Kim_pdf.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -491,20 +491,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6B%69%6D%62%72%69%61%6E@%75%6D%64.%65%64%75", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
