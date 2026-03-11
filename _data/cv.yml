@@ -1,39 +1,517 @@
 cv:
-  name: Brian Kim
-  label: Scientist
-  email: kimbrian@umd.edu
-  location: College Park, MD
-  image: ""
-  summary: 
-
+  name: "Brian Kim"
+  location: "College Park, MD"
+  email: "kimbrian@umd.edu"
   social_networks:
-    - network: GitHub
-      username: kimbrianj
-    - network: LinkedIn
-      username: brian-kim-25a90ba8/
-
-  address:
-    street: 1218S LeFrak Hall, 7251 Preinkert Dr.
-    city: College Park
-    region: Maryland
-    postalCode: 20742
-    countryCode: US
-
+    - network: "GitHub"
+      username: "kimbrianj"
   sections:
-    Education:
-      - institution: University of California, Los Angeles
-        location: Los Angeles, CA
-        url: 
-        area: Statistics
-        studyType: PhD
-        start_date: 2012
-        end_date: 2017
-        score: ""
+    education:
+      - institution: "University of California, Los Angeles"
+        area: "Statistics"
+        degree: "PhD"
+        end_date: "2017-10"
         highlights:
-          - **Dissertation:** Population Size Estimation using Multiple Respondent-Driven Samples
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
+          - "Dissertation: Population Size Estimation using Multiple
+            Respondent-Driven Samples"
+        start_date: 2012-09
+      - institution: "Amherst College"
+        area: "Mathematics & Philosophy"
+        degree: "BA"
+        end_date: "2012-06"
+        highlights:
+          - "Graduated with Honors in Mathematics"
+          - "Thesis: Using Mode Identification Clustering Methods with Pitch F/X
+            Data"
+        start_date: 2008-09
+    research_interests:
+      - bullet: "Data Science Education; Social Network Analysis; Network Sampling
+          Methods; Respondent-Driven Sampling; Population Size Estimation:
+          Capture-Recapture and Multiple List methods; Social Science
+          Applications of Machine Learning"
+    experience:
+      - company: "University of Maryland"
+        position: "Co-Director, Social Data Science Major"
+        start_date: "2021-10"
+        end_date: "present"
+        location: "College Park, MD"
+        highlights:
+          - "Led the development of a new major in Social Data Science
+            (officially launched Fall 2022), including working across
+            departments to build an appropriate curriculum, managing the budget,
+            and setting up infrastructure."
+          - "Developed new courses to be part of Social Data Science, including
+            SDSB233: Data Science for Social Sciences and SDSB326: Python
+            Programming for Social Science."
+          - "Launched a new undergraduate Data Curation Fellowship experience in
+            which students identify, obtain, clean, and curate datasets to be
+            used within social science courses, with a public-facing data
+            resource webpage (https://bsos-data.umd.edu)."
+          - "Coordinated across colleges with the College of Information
+            Co-Director to set up advising, teaching workload, and major
+            requirements for students."
+      - company: "University of Maryland"
+        position: Director of Graduate Studies, Joint Program in Survey Methodology
+        start_date: "2024-09"
+        end_date: "present"
+        location: "College Park, MD"
+        highlights:
+          - "Oversaw updates to the Master’s in Survey and Data Science program,
+            including adding SURV613: Machine Learning for Social Science as a
+            required course and incorporating neural networks and LLMs into
+            course material."
+          - "Assisted graduate students in finding funding through grants or
+            teaching assistant opportunities on campus."
+          - "Chaired the Master’s Admissions committee and coordinated with the
+            Director of JPSM on recruitment efforts."
+      - company: "Joint Program in Survey Methodology, University of Maryland"
+        position: "Associate Research Professor"
+        start_date: "2024-07"
+        end_date: "present"
+        location: "College Park, MD"
+        highlights:
+          - "Developed and implemented innovative teaching assignments and tools
+            including: cloud-based programming workbooks using JupyterHub
+            (multiple classes); a board game decision analysis project for an
+            undergraduate class (INST 354: Decision Making for Information
+            Science); a data disclosure-proofing project (SURV 622: Fundamentals
+            of Data Collection); and a custom R package containing tutorials
+            (SURV 613: Machine Learning for Social Science)."
+          - "Taught classes on introductory statistics, data science, machine
+            learning, and programming for both undergraduate and graduate
+            students, utilizing traditional and flipped classroom formats in
+            online, in-person, and HyFlex modes."
+          - "As part of an NSF grant, managed and oversaw the development and
+            day-to-day operations of data analytics training courses for working
+            professionals and graduate students at the National Center for
+            Science and Engineering Statistics (NCSES) at the National Science
+            Foundation (NSF)."
+      - company: "Joint Program in Survey Methodology, University of Maryland"
+        position: "Assistant Research Professor"
+        start_date: "2020-08"
+        end_date: "2024-07"
+        location: "College Park, MD"
+        highlights:
+          - "Developed and implemented innovative teaching assignments and tools
+            including: cloud-based programming workbooks using JupyterHub
+            (multiple classes); a board game decision analysis project for an
+            undergraduate class (INST 354: Decision Making for Information
+            Science); a data disclosure-proofing project (SURV 622: Fundamentals
+            of Data Collection); and a custom R package containing tutorials
+            (SURV 613: Machine Learning for Social Science)."
+          - "Taught classes on introductory statistics, data science, machine
+            learning, and programming for both undergraduate and graduate
+            students, utilizing traditional and flipped classroom formats in
+            online, in-person, and HyFlex modes."
+          - "As part of an NSF grant, managed and oversaw the development and
+            day-to-day operations of data analytics training courses for working
+            professionals and graduate students at the National Center for
+            Science and Engineering Statistics (NCSES) at the National Science
+            Foundation (NSF)."
+      - company: "Joint Program in Survey Methodology, University of Maryland"
+        position: "Lecturer"
+        start_date: "2017-10"
+        end_date: "2020-08"
+        location: "College Park, MD"
+        highlights:
+          - "Developed and implemented innovative teaching assignments and tools
+            including: cloud-based programming workbooks using JupyterHub
+            (multiple classes); a board game decision analysis project for an
+            undergraduate class (INST 354: Decision Making for Information
+            Science); a data disclosure-proofing project (SURV 622: Fundamentals
+            of Data Collection); and a custom R package containing tutorials
+            (SURV 613: Machine Learning for Social Science)."
+          - "Taught classes on introductory statistics, data science, machine
+            learning, and programming for both undergraduate and graduate
+            students, utilizing traditional and flipped classroom formats in
+            online, in-person, and HyFlex modes."
+          - "As part of an NSF grant, managed and oversaw the development and
+            day-to-day operations of data analytics training courses for working
+            professionals and graduate students at the National Center for
+            Science and Engineering Statistics (NCSES) at the National Science
+            Foundation (NSF)."
+      - company: "The Coleridge Initiative"
+        position: "Consultant/Facilitator"
+        start_date: "2020-09"
+        end_date: "2022-01"
+        highlights:
+          - "Provided guidance as a facilitator with the Applied Data Analytics
+            program for teaching record linkage, text analysis, network
+            analysis, and machine learning to working professionals in public
+            policy."
+          - "Consulted on a research projects using machine learning for
+            imputation with large scale transaction-level purchasing data."
+          - "Developed modularized lessons and notebooks for introductory
+            statistics and programming in Python, R and SQL."
+      - company: "Institute for Digital Research and Education, University of
+          California, Los Angeles"
+        position: "Statistical Consultant"
+        start_date: "2014-05"
+        end_date: "2016-06"
+        location: "University of California, Los Angeles"
+        highlights:
+          - "Assisted graduate students and professors in Psychology, Economics,
+            Education, and other fields in cleaning, merging, and preparing data
+            for analysis."
+          - "Helped clients with their dissertations, publications, and other
+            projects using methods such as mixed modeling, principal components
+            analysis, simulation, and more using a variety of statistical
+            software."
+      - company: "UCLA Institute for Pure and Applied Mathematics"
+        position: "Academic Mentor"
+        date: "Summers 2015, 2016, 2017"
+        location: "UCLA"
+        highlights:
+          - "Mentored a team of four undergraduate students with a research
+            project for the Research in Industrial Projects for Students (RIPS)
+            program in which an industry sponsor provides a real problem of
+            interest."
+          - "Provided a cooperative team environment for research by encouraging
+            collaboration between students and advising students throughout the
+            full research lifecycle."
+    refereed_publications:
+      - title: "Using a Stopping Rule to Optimize Cost-Quality Tradeoffs in a Large,
+          Mixed-Mode Survey: A Simulation Study"
+        authors:
+          - "K. Wagner"
+          - "B. West"
+          - "*B. Kim*"
+          - "D. Suolang"
+          - "C. Engstrom"
+          - "J. Sinibaldi"
+        journal: "Journal of Official Statistics. 41 (1), 329-364"
+        date: "2025"
+        doi: "10.1177/0282423X241287452"
+      - title: "Hidden Population Size Estimation and Diagnostics Using Two
+          Respondent-Driven Samples with Applications in Armenia"
+        authors:
+          - "*B. Kim*"
+          - "L. G. Johnston"
+          - "T. Grigoryan"
+          - "A. Papoyan"
+          - "S. Grigoryan"
+          - "K. R. McLaughlin"
+        journal: "Biometrical Journal, 00, 2200136"
+        date: "2023"
+        doi: "10.1002/bimj.202200136"
+      - title: "Using Geographical Data and Rolling Statistics for Diagnostics of
+          Respondent-Driven Sampling"
+        authors:
+          - "*B. Kim*"
+          - "M. Ogwal"
+          - "E. Sande"
+          - "H. Kiyingi"
+          - "D. Serwadda"
+          - "W. Hladik"
+        journal: "Social Networks. 69, 74-83"
+        date: "2022"
+        doi: "10.1016/j.socnet.2020.05.001"
+      - title: "Population Size Estimation Using Multiple Respondent-Driven Sampling
+          Surveys"
+        authors:
+          - "*B. Kim*"
+          - "M. Handcock"
+        journal: "Journal of Survey Statistics and Methodology. 9(1), 94-120"
+        date: "2021"
+        doi: "10.1093/jssam/smz055"
+      - title: "Easy-to-Use Cloud Computing for Teaching Data Science"
+        authors:
+          - "*B. Kim*"
+          - "G. Henke"
+        journal: "Journal of Statistics Education. 29:sup1, S103-S111"
+        date: "2020"
+        doi: "10.1080/10691898.2020.1860726"
+      - title: "Partnering with a global platform to inform research and public policy
+          making"
+        authors:
+          - "F. Kreuter"
+          - "N. Barkay"
+          - "A. Bilinski"
+          - "A. Bradford"
+          - "S. Chiu"
+          - "R. Eliat"
+          - "J. Fan"
+          - "T. Galili"
+          - "D. Haimovich"
+          - "*B. Kim*"
+          - "S. LaRocca"
+          - "Y. Li"
+          - "K. Morris"
+          - "S. Presser"
+          - "T. Sarig"
+          - "J. A. Salomon"
+          - "K. Stewart"
+          - "E. A. Stuart"
+          - "R. Tibshirani"
+        journal: "Survey Research Methods, 14(2), 159-163"
+        date: "2020"
+        doi: "10.18148/srm/2020.v14i2.7761"
+    software_and_data:
+      - title: "sspse: Estimating Hidden Population Size using Respondent Driven
+          Sampling Data"
+        authors:
+          - "M. Handcock"
+          - "K. Gile"
+          - "*B. Kim*"
+          - "K. McLaughlin"
+        journal: "R package version 1.0.3, Los Angeles, CA."
+        date: "2022"
+        url: "https://CRAN.R-project.org/package=sspse"
+      - title: "The University of Maryland social data science center global COVID-19
+          trends and impact survey, in partnership with Facebook"
+        authors:
+          - "J. Fan"
+          - "Y. Li"
+          - "K. Stewart"
+          - "A. R. Kommareddy"
+          - "A. Garcia"
+          - "J. O’Brien"
+          - "A. Bradford"
+          - "X. Deng"
+          - "S. Chiu"
+          - "F. Kreuter"
+          - "N. Barkay"
+          - "A. Bilinski"
+          - "*B. Kim*"
+          - "T. Galili"
+          - "D. Haimovich"
+          - "S. LaRocca"
+          - "S. Presser"
+          - "K. Morris"
+          - "J. Salomon"
+          - "D. Vannette"
+        journal: "University of Maryland"
+        date: "2020"
+        url: "https://covidmap.umd.edu/api.html"
+    book_chapters_and_non_refereed_publications:
+      - title: "The Value of Science: Special Theme"
+        authors:
+          - "J. Lane"
+          - "*B. Kim*"
+          - "F. Kreuter"
+          - "A. Nunez"
+        journal: "Harvard Data Science Review"
+        date: "2022"
+        doi: "10.1162/99608f92.4a01213d"
+      - title: "Scaling Up Data Science for the Social Sciences"
+        authors:
+          - "*B. Kim*"
+        journal: "Harvard Data Science Review"
+        date: "2021"
+        doi: "10.1162/99608f92.d3f14ea4"
+      - title: "Workbooks"
+        authors:
+          - "*B. Kim*"
+          - "C. Kern"
+          - "J. Morgan"
+          - "C. Hunter"
+          - "A. Kumar"
+        journal: "Big Data and Social Science, 2nd Edition. Chapman and Hall/CRC Press.
+          333-339"
+        date: "2021"
+        url: "https://textbook.coleridgeinitiative.org/chap-workbooks.html"
+    selected_conference_presentations:
+      - name: "A Hybrid Household and Respondent-Driven Sampling Strategy for Reaching
+          Underrepresented Groups"
+        date: "August 2023"
+        location: "Joint Statistical Meetings, Toronto, CA"
+        summary: "Presented with Ariana Gard."
+      - name: "Machine Learning Model Selection for Complex Sample Survey Data"
+        date: "August 2020"
+        location: "Symposium on Data Science and Statistics"
+      - name: "Data 8 Adoption at University of Maryland"
+        date: "June 2020"
+        location: "National Workshop on Data Science Education, Berkeley, CA"
+      - name: "Population Size Estimation Using Multiple Respondent-Driven Sampling
+          Surveys"
+        date: "August 2019"
+        location: "Joint Statistical Meetings, Denver, CO"
+        summary: "Presented with M. Handcock."
+      - name: "Teaching Data Science Using Jupyter Notebooks and Binder"
+        date: "May 2019"
+        location: "Symposium on Data Science and Statistics, Bellevue, WA"
+        summary: "Presented with G. Henke."
+      - name: "Assessing Respondent-Driven Sampling Using Geographical Data"
+        date: "November 2018"
+        location: "North American Social Network Conference, Washington, D.C."
+        summary: "Presented with M. Ogwal, E. Sande, H. Kiyingi, D. Serwadda, and W.
+          Hladik."
+    grants:
+      - name: "UMD Artificial Intelligence Interdisciplinary Institute: Course
+          Development Grant"
+        date: "May 2025 – May 2026"
+        summary: "Advancing Computational Expertise in Neuroscience and Psychology
+          (co-PI)"
+        highlights:
+          - "Funding: $10,000"
+      - name: "UMD Teaching and Learning Transformation Center: Experiential Learning
+          Grant"
+        date: "September 2022 – August 2023"
+        summary: "Cloud-based Active Learning for BSOS Statistics and Data Science
+          Courses (PI)"
+        highlights:
+          - "Funding: $135,573.72"
+      - name: "Dean’s Research Initiative"
+        date: "June 2022 – May 2023"
+        summary: "An Evaluation of Sampling Methodologies for Reaching Underrepresented
+          Groups (PI)"
+        highlights:
+          - "Funding: $19,999"
+      - name: "Global Privacy Monitor (GMP): Learning from External Privacy
+          Stakeholders"
+        date: "June 2021 – May 2024"
+        summary: "Awarded by Facebook, Inc."
+        highlights:
+          - "Funding: $2,994,731"
+      - name: "National Science Foundation, NCSES BAA"
+        date: "September 2020 – August 2021"
+        summary: "Modernizing NCSES Data Collection Approaches (co-PI)"
+        highlights:
+          - "Funding: $88,802"
+      - name: "National Science Foundation, ECR: 1956114"
+        date: "May 2020 – May 2025"
+        summary: "Collaborative Research: Impacts of Hard/Soft Skills on STEM Workforce
+          Trajectories (co-PI)"
+        highlights:
+          - "Funding: $401,716"
+      - name: "National Agricultural Statistics Service"
+        date: "August 2019 – February 2024"
+        summary: "Linked Dataset and Virtual Research Data Center (Co-PI)"
+        highlights:
+          - "Funding: $653,490"
+      - name: "UMD Teaching Innovations Grant"
+        date: "June 2020 – August 2020"
+        highlights:
+          - "Funding: $18,000"
+      - name: "UMD Teaching Innovations Grant"
+        date: "June 2020 – August 2020"
+        highlights:
+          - "Funding: $5,000"
+      - name: "UMD Year of Data Science"
+        date: "July 2019 – May 2020"
+        summary: "Developing a New Course in Data Science: Introduction to Data Science
+          for Social Sciences (PI)"
+        highlights:
+          - "Funding: $17,500"
+      - name: "Governor’s Office of Crime Control and Prevention"
+        date: "December 2018 – July 2019"
+        summary: "Feasibility Testing of a Respondent-Driven Sampling Approach to
+          Recruit Human Trafficking Victims"
+        highlights:
+          - "Funding: $30,000"
+    awards:
+      - bullet: "Dissertation Year Fellowship (September 2016 – June 2017)"
+      - bullet: "Collegium of University Teaching Fellows (September 2016 – June 2017)"
+      - bullet: "Graduate Dean’s Scholar Award (June 2012 – September 2014)"
+    other_academic_work:
+      - name: "Guest Editor"
+        date: "Spring 2022"
+        summary: "Harvard Data Science Review, Special Theme: Value of Science. Issue
+          4.2."
+      - name: "Reviewer"
+        summary: "Journal of Statistics and Data Science Education"
+      - name: "Reviewer"
+        summary: "Journal of Survey Statistics and Methodology"
+      - name: "Reviewer"
+        summary: "Journal of Statistical Software"
+      - name: "Reviewer"
+        summary: "Public Opinion Quarterly"
+      - name: "Reviewer"
+        summary: "Harvard Data Science Review"
+      - name: "Reviewer"
+        summary: "Computational Statistics and Data Analysis"
+      - name: "Reviewer"
+        summary: "Journal of Official Statistics"
+    teaching:
+      - company: "University of Maryland"
+        position: "Instructor"
+        start_date: "2017-10"
+        end_date: "present"
+        highlights:
+          - "SDSB180 (formerly BSOS180): Introduction to Data Management (Fall
+            2024, Spring 2025, Fall 2025, Spring 2026)"
+          - "SDSB123 (formerly BSOS188C): Social Data Science: Pathways and
+            Applications (Fall 2024, Spring 2025, Fall 2025, Spring 2026)"
+          - "Undergraduate Courses: SDSB326 (formerly BSOS326): Python
+            Programming for Social Science (Spring 2024)"
+          - "Undergraduate Courses: SDSB233 (formerly BSOS233): Data Science for
+            Social Sciences (Fall 2019, Spring 2020, Spring 2022, Fall 2022,
+            Spring 2023)"
+          - "Undergraduate Courses: INST 314: Statistics for Information Science
+            (Fall 2018)"
+          - "Undergraduate Courses: INST 354: Decision Making for Information
+            Science (Spring 2019)"
+          - "Graduate Courses: SURV 613: Machine Learning for Social Sciences
+            (Fall 2020, Fall 2021, Spring 2023, Spring 2024, Spring 2025, Spring
+            2026)"
+          - "Graduate Courses: SURV 622: Fundamentals of Data Collection (Spring
+            2020, Spring 2021, Spring 2022)"
+          - "Graduate Courses: SURV 673: Introduction to Python & SQL (Fall
+            2018, Spring 2019, Summer 2019, Fall 2019, Fall 2020, Summer 2020,
+            Summer 2021)"
+          - "Graduate Courses: SURV 699M: Review of Statistical Concepts (Summer
+            2018, Summer 2019, Summer 2020, Summer 2021)"
+          - "Graduate Courses: SURV 701: Analysis of Complex Sample Survey Data
+            (Spring 2021)"
+          - "Graduate Courses: SURV 727: Fundamentals of Computing and Data
+            Display (Fall 2022, Fall 2023, Fall 2024, Fall 2025)"
+      - company: "University of California, Los Angeles"
+        position: "Instructor"
+        start_date: "2017-01"
+        end_date: "2017-03"
+        highlights:
+          - "Stat 98T: Six Degrees of Separation: Studying the World Through
+            Social Networks (Winter 2017)"
+      - company: "University of California, Los Angeles"
+        position: "Teaching Assistant"
+        start_date: "2013-09"
+        end_date: "2016-06"
+        highlights:
+          - "Stat 10: Introduction to Statistical Reasoning (Fall 2013, Winter
+            2014, Spring 2014, Fall 2014, Winter 2015, Spring 2015, Fall 2015,
+            Winter 2016, Spring 2016)"
+    mentorship:
+      - name: "Doctoral Students Advisor"
+        highlights:
+          - "Harold Gomes (in progress)"
+      - name: "Doctoral Committee Member"
+        highlights:
+          - "Yuting Chen, University of Maryland, 2025"
+          - "Ai Rene Ong, University of Michigan, 2022"
+          - "Jordan Epistola, University of Maryland, 2022"
+      - name: "Graduate Students on Funded Projects Supervisor"
+        highlights:
+          - "Ujjayini Das (September 2022 – August 2023)"
+          - "Joseph Hoskisson (September 2022 – August 2023)"
+          - "Franklin Yang (September 2021 – August 2022)"
+          - "Sofi Sinozich (September 2020 – August 2021)"
+    service:
+      - bullet: "Faculty Coordinator, Joint Program in Survey Methodology Short Course
+          Program"
+      - bullet: "Co-Chair, Social Data Science Program Committee"
+      - bullet: "Co-Chair, Department of Psychology Lecturer Search Committee"
+      - bullet: "Chair, Social Data Science Curriculum Committee"
+      - bullet: "Chair, Search Committee for Executive Director of the Center for
+          Advances in Data and Measurement"
+      - bullet: "Member/Chair, JPSM/MPSM Masters Admissions Committee"
+      - bullet: "Member, School of Information Studies Lecturer Search Committee"
+      - bullet: "Member, Social Data Science Advisor Search Committee"
+      - bullet: "Member, Social Data Science Steering Committee"
+      - bullet: "Member, JPSM/MPSM Teaching Assignment Committee"
+    technical_strengths:
+      - label: "Statistical Software"
+        details: "Highly skilled in R, SQL and Python, including various packages such
+          as Rcpp, caret, tidyverse, tidymodels, and more (in R); and pandas,
+          scikit-learn, nltk, tensorflow, and more (in Python)."
+      - label: "Statistics"
+        details: "Highly skilled in a variety of methods, including but not limited to
+          hypothesis testing, regression, mixed models, clustering analysis,
+          social network analysis, social network models, network sampling
+          methods, Monte Carlo simulation, Bayesian models, Machine Learning,
+          text analysis, web scraping, and more."
+      - label: "Other Software"
+        details: "Skilled or proficient in the use of many other programs, including,
+          but not limited to, Microsoft Word, Excel and Powerpoint; LaTeX."
         area: Mathematics & Philosophy
         studyType: BA
         start_date: 2008
