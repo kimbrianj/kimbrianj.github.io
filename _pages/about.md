@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Co-Director, Social Data Science major | Director of Graduate Studies, Joint Program in Survey Methodology | Associate Research Professor
+subtitle: 
 
 profile:
   align: right
@@ -27,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Co-Director of the Social Data Science major, Director of Graduate Studies for the Survey and Data Science Master's and Ph.D. program, and an Associate Research Professor in the Joint Program in Survey Methodology at University of Maryland. 
+I am **Co-Director** of the Social Data Science major, **Director** of Graduate Studies for the Survey and Data Science Master's and Ph.D. program, and an **Associate Research Professor** in the Joint Program in Survey Methodology at University of Maryland. 
+
+My research is focused on social network analysis, network sampling methods (particularly respondent-driven sampling), population size estimation, data science education, and social science applications of machine learning.
