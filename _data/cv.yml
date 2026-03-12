@@ -127,7 +127,7 @@ cv:
         authors:
           - "J. Wagner"
           - "B. West"
-          - "*B. Kim*"
+          - "**B. Kim**"
           - "D. Suolang"
           - "C. Engstrom"
           - "J. Sinibaldi"        
@@ -137,7 +137,7 @@ cv:
       - title: "Hidden Population Size Estimation and Diagnostics Using Two
           Respondent-Driven Samples with Applications in Armenia"
         authors:
-          - "*B. Kim*"
+          - "**B. Kim**"
           - "L. G. Johnston"
           - "T. Grigoryan"
           - "A. Papoyan"
@@ -149,7 +149,7 @@ cv:
       - title: "Using Geographical Data and Rolling Statistics for Diagnostics of
           Respondent-Driven Sampling"
         authors:
-          - "*B. Kim*"
+          - "**B. Kim**"
           - "M. Ogwal"
           - "E. Sande"
           - "H. Kiyingi"
@@ -168,7 +168,7 @@ cv:
         url: "https://www.doi.org/10.1093/jssam/smz055"
       - title: "Easy-to-Use Cloud Computing for Teaching Data Science"
         authors:
-          - "*B. Kim*"
+          - "**B. Kim**"
           - "G. Henke"
         publisher: "Journal of Statistics Education. 29:sup1, S103-S111"
         releaseDate: "2020"
@@ -185,7 +185,7 @@ cv:
           - "J. Fan"
           - "T. Galili"
           - "D. Haimovich"
-          - "*B. Kim*"
+          - "**B. Kim**"
           - "S. LaRocca"
           - "Y. Li"
           - "K. Morris"
@@ -204,7 +204,7 @@ cv:
         authors: 
           - "M. Handcock"
           - "K. Gile"
-          - "*B. Kim*"
+          - "**B. Kim**"
           - "K. McLaughlin"
         publisher: "R package version 1.0.3, Los Angeles, CA."
         releaseDate: "2022"
@@ -223,7 +223,7 @@ cv:
           - "F. Kreuter"
           - "N. Barkay"
           - "A. Bilinski"
-          - "*B. Kim*"
+          - "**B. Kim**"
           - "T. Galili"
           - "D. Haimovich"
           - "S. LaRocca"
@@ -285,16 +285,15 @@ cv:
       - name: "Advancing Computational Expertise in Neuroscience and Psychology (co-PI)"
         start_date: "2025-05"
         end_date: 2026-05
-        summary: "UMD Artificial Intelligence Interdisciplinary Institute: Course Development Grant"
-        highlights:
-          - "Funding: $10,000"
-      - name: "UMD Teaching and Learning Transformation Center: Experiential Learning
-          Grant"
-        date: "September 2022 – August 2023"
-        summary: "Cloud-based Active Learning for BSOS Statistics and Data Science
+        awarder: "UMD Artificial Intelligence Interdisciplinary Institute: Course Development Grant"
+        summary: "Funding: $10,000"
+      - name: "Cloud-based Active Learning for BSOS Statistics and Data Science
           Courses (PI)"
-        highlights:
-          - "Funding: $135,573.72"
+        awarder: "UMD Teaching and Learning Transformation Center: Experiential Learning
+          Grant"
+        start_date: "2022-09"
+        end_date: 2023-08
+        summary: "Funding: $135,573.72"
       - name: "Dean’s Research Initiative"
         date: "June 2022 – May 2023"
         summary: "An Evaluation of Sampling Methodologies for Reaching Underrepresented
