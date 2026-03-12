@@ -11,14 +11,14 @@ cv:
         location: Los Angeles, CA
         area: Statistics
         degree: PhD
-        studyType: 2017-10
+        end_date: 2017-10
         highlights:
           - "Dissertation: Population Size Estimation using Multiple Respondent-Driven Samples"
         start_date: 2012-09
         
       - institution: Amherst College
         area: Mathematics & Philosophy
-        studyType: BA
+        degree: BA
         end_date: 2012-06
         highlights:
           - Graduated with Honors in Mathematics
@@ -27,7 +27,7 @@ cv:
     Research Interests:
       - bullet: "Data Science Education; Social Network Analysis; Network Sampling Methods; Respondent-Driven Sampling; Population Size Estimation: Capture-Recapture and Multiple List methods; Social Science Applications of Machine Learning"
     Experience:
-      - company: University of Maryland
+      - company: College of Behavioral and Social Sciences (BSOS), University of Maryland
         position: Co-Director, Social Data Science Major
         start_date: 2021-10
         end_date: present
@@ -42,8 +42,8 @@ cv:
           - "Coordinated across colleges with the College of Information
             Co-Director to set up advising, teaching workload, and major
             requirements for students."
-      - company: "University of Maryland"
-        position: Director of Graduate Studies, Joint Program in Survey Methodology
+      - company: "Joint Program in Survey Methodology (JPSM), University of Maryland"
+        position: Director of Graduate Studies
         start_date: "2024-09"
         end_date: "present"
         location: "College Park, MD"
@@ -56,7 +56,7 @@ cv:
             teaching assistant opportunities on campus."
           - "Chaired the Master’s Admissions committee and coordinated with the
             Director of JPSM on recruitment efforts."
-      - company: "Joint Program in Survey Methodology, University of Maryland"
+      - company: "JPSM/BSOS"
         position: "Associate Research Professor"
         start_date: "2024-07"
         end_date: "present"
@@ -117,7 +117,7 @@ cv:
         highlights:
           - "Mentored a team of four undergraduate students with a research
             project for the Research in Industrial Projects for Students (RIPS)
-            program in which an industry sponsor provides a real problem of
+            summer program in which an industry sponsor provides a real problem of
             interest."
           - "Provided a cooperative team environment for research by encouraging
             collaboration between students and advising students throughout the
@@ -155,7 +155,7 @@ cv:
           - "H. Kiyingi"
           - "D. Serwadda"
           - "W. Hladik"
-        journal: "Social Networks. 69, 74-83"
+        publisher: "Social Networks. 69, 74-83"
         releaseDate: "2022-05"
         url: "https://www.doi.org/10.1016/j.socnet.2020.05.001"
       - title: "Population Size Estimation Using Multiple Respondent-Driven Sampling
@@ -163,14 +163,14 @@ cv:
         authors: 
           - "*B. Kim*"
           - "M. Handcock"
-        journal: "Journal of Survey Statistics and Methodology. 9(1), 94-120"
+        publisher: "Journal of Survey Statistics and Methodology. 9(1), 94-120"
         releaseDate: "2021-02"
         url: "https://www.doi.org/10.1093/jssam/smz055"
       - title: "Easy-to-Use Cloud Computing for Teaching Data Science"
         authors: 
           - "*B. Kim*"
           - "G. Henke"
-        journal: "Journal of Statistics Education. 29:sup1, S103-S111"
+        publisher: "Journal of Statistics Education. 29:sup1, S103-S111"
         releaseDate: "2020"
         url: "https://www.doi.org/10.1080/10691898.2020.1860726"
       - title: "Partnering with a global platform to inform research and public policy
@@ -195,7 +195,7 @@ cv:
           - "K. Stewart"
           - "E. A. Stuart"
           - "R. Tibshirani"
-        journal: "Survey Research Methods, 14(2), 159-163"
+        publisher: "Survey Research Methods, 14(2), 159-163"
         releaseDate: "2020-06"
         url: "https://www.doi.org/10.18148/srm/2020.v14i2.7761"
     Software and Data:
