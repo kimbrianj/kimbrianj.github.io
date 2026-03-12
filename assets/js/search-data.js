@@ -423,8 +423,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-jupyterhub-for-programming-courses-at-university-of-maryland",
-          title: 'JupyterHub for Programming Courses at University of Maryland',
+          section: "News",},{id: "projects-jupyterhub-for-umd-bsos-courses",
+          title: 'JupyterHub for UMD BSOS Courses',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
