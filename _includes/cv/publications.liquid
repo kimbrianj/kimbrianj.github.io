@@ -35,7 +35,9 @@
 
             {% if entry.authors %}
               <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
-                {{ entry.authors }}
+              {% for author in entry.authors %}
+                {{ author }},
+              {% endfor %}
               </h6>
             {% endif %}
 
@@ -61,7 +63,9 @@
 
             {% if entry.authors %}
               <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
-                {{ entry.authors }}
+              {% for author in entry.authors %}
+                {{ author }},
+              {% endfor %}
               </h6>
             {% endif %}
 
