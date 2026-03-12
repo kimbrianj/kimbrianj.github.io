@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am **Co-Director** of the Social Data Science major, **Director of Graduate Studies** for the Survey and Data Science Master's and Ph.D. program, and an **Associate Research Professor** for Social Data Science and the Joint Program in Survey Methodology (JPSM) at University of Maryland. I teach a variety of data science, machine learning, statistics, and programming courses at the undergraduate and graduate levels, using both Python and R. You can see some of my pedagogical projects on the [Projects page](/projects). Some examples of teaching material are provided in the [GitHub Repositories page](/repositories).
+I am **Co-Director** of the Social Data Science major, **Director of Graduate Studies** for the Survey and Data Science Master's and Ph.D. program, and an **Associate Research Professor** for Social Data Science and the Joint Program in Survey Methodology (JPSM) at University of Maryland. I teach a variety of data science, machine learning, statistics, and programming courses at the undergraduate and graduate levels, using both Python and R. 
+
+You can see some of my pedagogical projects on the [Projects page](/projects). Some examples of teaching material are provided in the [GitHub Repositories page](/repositories).
 
 My research is focused on social network analysis, network sampling methods (particularly respondent-driven sampling), population size estimation, data science education, and social science applications of machine learning. You can see the [Publications page](/publications) for a list of my journal articles.
