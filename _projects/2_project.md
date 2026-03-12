@@ -1,69 +1,35 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Social Science Data Repository
+description: A repository with curated social science datasets for pedagogical purposes supported by an undergraduate fellowship
+img: assets/img/bsos-data.png
 importance: 2
-category: work
+category: teaching
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Motivation 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+One of the biggest challenges for faculty within the social sciences teaching statistics and data science courses is developing data examples that are relevant, 
+interesting, and structured. Using project-based learning and incorporating real-life datasets is invaluable for learning how exactly data science can be applied
+in the discipline, but the burden on faculty to clean, manage, and test the datasets is huge. The BSOS Data Repository was built as a response to calls from faculty
+across various BSOS departments about the need for high quality social science datasets.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The University of Maryland Teaching and Learning Transformation Center (TLTC) Experiential Learning program-level grant gave us the opportunity to build this data repository, alongside a new undergraduate Data Curation Fellowship.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Data Curation Fellowship
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+The BSOS Data Curation Fellowship was developed at the University of Maryland's College of Behavioral and Social Sciences
+to build up the data repository and give students the opportunity to learn to curate, clean, document, and publish social science datasets for teaching and research. 
+Our fellowship teams of three undergraduate students work with real research data from psychology, public health, elections, and more, turning raw datasets into well-documented resources.
+      
+The Data Curation Fellowship gives BSOS students hands-on experience in data management, documentation, and scholarly communication.
+Students learn industry-standard practices for data cleaning, quality assurance, and metadata creation while working on datasets that
+directly support faculty research and undergraduate instruction.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Finding Data
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The BSOS Data Repository is designed to make it easier for social science instructors to find the datasets that they want to use with as little extra work needed. To that end, these datasets are not only curated with multiple version, but also include comprehensive documentation, summaries, visual dashboards, and example code to make the process as painless as possible.  
 
 {% raw %}
 

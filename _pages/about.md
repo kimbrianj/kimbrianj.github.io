@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am the **undergraduate Co-Director** of the Social Data Science major in the College of Behavioral and Social Sciences, **Director** of Graduate Studies for the Survey and Data Science Master's and Ph.D. program in the Joint Program in Survey Methodology, and an **Associate Research Professor** at University of Maryland, College Park. I teach a variety of courses in data science, machine learning, statistics, and programming at the undergraduate and graduate levels using both Python and R. 
+I am the **undergraduate Co-Director** of the Social Data Science major in the College of Behavioral and Social Sciences, **Director of Graduate Studies** for the Survey and Data Science Master's and Ph.D. program in the Joint Program in Survey Methodology, and an **Associate Research Professor** at University of Maryland, College Park. I teach a variety of courses in data science, machine learning, statistics, and programming at the undergraduate and graduate levels using both Python and R. 
 
-You can see some of my pedagogical projects on the [Projects page](/projects). Some examples of teaching material are provided in the [GitHub Repositories page](/repositories).
+You can see some of my pedagogical projects on the [Projects page](/projects). These have largely been supported by various grants from NSF and University of Maryland. You can see more about my teaching and research grants in the [Grants section](/cv/#grants-1) of my CV. Some examples of teaching material are provided in the [GitHub Repositories page](/repositories).
 
 My research is focused on social network analysis, network sampling methods (particularly respondent-driven sampling), population size estimation, data science education, and social science applications of machine learning. You can see the [Publications page](/publications) for a list of my journal articles.

@@ -241,13 +241,13 @@ cv:
           - "*B. Kim*"
           - "F. Kreuter"
           - "A. Nunez"
-        journal: "Harvard Data Science Review"
+        publisher: "Harvard Data Science Review"
         releaseDate: "2022"
         doi: "10.1162/99608f92.4a01213d"
       - title: "Scaling Up Data Science for the Social Sciences"
         authors:
           - "*B. Kim*"
-        journal: "Harvard Data Science Review"
+        publisher: "Harvard Data Science Review"
         releaseDate: "2021"
         doi: "10.1162/99608f92.d3f14ea4"
       - title: "Workbooks"
@@ -257,7 +257,7 @@ cv:
           - "J. Morgan"
           - "C. Hunter"
           - "A. Kumar"
-        journal: "Big Data and Social Science, 2nd Edition. Chapman and Hall/CRC Press. 333-339"
+        publisher: "Big Data and Social Science, 2nd Edition. Chapman and Hall/CRC Press. 333-339"
         releaseDate: "2021"
         url: "https://textbook.coleridgeinitiative.org/chap-workbooks.html"
     Selected Conference Presentations:
@@ -281,7 +281,7 @@ cv:
       - name: "Assessing Respondent-Driven Sampling Using Geographical Data"
         date: "November 2018"
         location: "North American Social Network Conference, Washington, D.C."
-    Grants:
+    Grants and Awards:
       - name: "Advancing Computational Expertise in Neuroscience and Psychology (co-PI)"
         start_date: "2025-05"
         end_date: 2026-05
@@ -294,55 +294,49 @@ cv:
         start_date: "2022-09"
         end_date: 2023-08
         summary: "Funding: $135,573.72"
-      - name: "Dean’s Research Initiative"
-        date: "June 2022 – May 2023"
-        summary: "An Evaluation of Sampling Methodologies for Reaching Underrepresented
+      - name: "An Evaluation of Sampling Methodologies for Reaching Underrepresented
           Groups (PI)"
-        highlights:
-          - "Funding: $19,999"
-      - name: "Global Privacy Monitor (GMP): Learning from External Privacy
-          Stakeholders"
-        date: "June 2021 – May 2024"
-        summary: "Awarded by Facebook, Inc."
-        highlights:
-          - "Funding: $2,994,731"
-      - name: "National Science Foundation, NCSES BAA"
-        date: "September 2020 – August 2021"
-        summary: "Modernizing NCSES Data Collection Approaches (co-PI)"
-        highlights:
-          - "Funding: $88,802"
-      - name: "National Science Foundation, ECR: 1956114"
-        date: "May 2020 – May 2025"
-        summary: "Collaborative Research: Impacts of Hard/Soft Skills on STEM Workforce
-          Trajectories (co-PI)"
-        highlights:
-          - "Funding: $401,716"
-      - name: "National Agricultural Statistics Service"
-        date: "August 2019 – February 2024"
-        summary: "Linked Dataset and Virtual Research Data Center (Co-PI)"
-        highlights:
-          - "Funding: $653,490"
-      - name: "UMD Teaching Innovations Grant"
+        awarder: "University of Maryland BSOS Dean’s Research Initiative"
+        start_date: 2022-06
+        end_date: 2023-05
+        summary: "Funding: $19,999"
+      - name: "Global Privacy Monitor (GPM): Learning from External Privacy Stakeholders"
+        start_date: 2021-06
+        end_date: 2024-05
+        awarder: Facebook, Inc.
+        summary: "Funding: $2,994,731"
+      - name: "Modernizing NCSES Data Collection Approaches (co-PI)" 
+        start_date: 2020-09
+        end_date: 2021-08
+        awarder: "National Science Foundation, NCSES BAA"
+        summary: "Funding: $88,802"
+      - name: "Collaborative Research: Impacts of Hard/Soft Skills on STEM Workforce Trajectories (co-PI)"
+        start_date: 2020-05
+        end_date: 2025-05
+        awarder: "National Science Foundation, ECR: 1956114"
+        summary: "Funding: $401,716"
+      - name: "Linked Dataset and Virtual Research Data Center (Co-PI)"
+        start_date: 2019-08
+        end_date: 2024-02
+        awarder: "National Agricultural Statistics Service"
+        summary: "Funding: $653,490"
+      - name: "Teaching Innovations Grant"
         date: "June 2020 – August 2020"
-        highlights:
-          - "Funding: $18,000"
-      - name: "UMD Teaching Innovations Grant"
+        awarder: University of Maryland 
+        summary: "Funding: $18,000"
+      - name: "Teaching Innovations Grant"
         date: "June 2020 – August 2020"
-        highlights:
-          - "Funding: $5,000"
-      - name: "UMD Year of Data Science"
+        awarder: University of Maryland 
+        summary: "Funding: $5,000"
+      - name: "Developing a New Course in Data Science: Introduction to Data Science
+          for Social Sciences (PI)" 
         date: "July 2019 – May 2020"
-        summary: "Developing a New Course in Data Science: Introduction to Data Science
-          for Social Sciences (PI)"
-        highlights:
-          - "Funding: $17,500"
-      - name: "Governor’s Office of Crime Control and Prevention"
+        awarder: "UMD Year of Data Science"
+        summary: "Funding: $17,500"
+      - name: "Feasibility Testing of a Respondent-Driven Sampling Approach to Recruit Human Trafficking Victims"
         date: "December 2018 – July 2019"
-        summary: "Feasibility Testing of a Respondent-Driven Sampling Approach to
-          Recruit Human Trafficking Victims"
-        highlights:
-          - "Funding: $30,000"
-    Awards:
+        summary: "Funding: $30,000"
+        awarder: "Governor’s Office of Crime Control and Prevention"
       - name: "Dissertation Year Fellowship"
         awarder: University of California, Los Angeles
         date: 2016
@@ -351,32 +345,27 @@ cv:
         date: 2016
       - name: "Graduate Dean’s Scholar Award"
         awarder: University of California, Los Angeles
-        date: 2012-
+        date: 2012
     Other Academic Work:
       - name: "Guest Editor"
-        date: "Spring 2022"
-        summary: "Harvard Data Science Review, Special Theme: Value of Science. Issue
-          4.2."
+        date: "2022"
+        highlights: "Harvard Data Science Review, Special Theme: Value of Science. Issue 4.2."
       - name: "Reviewer"
-        summary: "Journal of Statistics and Data Science Education"
-      - name: "Reviewer"
-        summary: "Journal of Survey Statistics and Methodology"
-      - name: "Reviewer"
-        summary: "Journal of Statistical Software"
-      - name: "Reviewer"
-        summary: "Public Opinion Quarterly"
-      - name: "Reviewer"
-        summary: "Harvard Data Science Review"
-      - name: "Reviewer"
-        summary: "Computational Statistics and Data Analysis"
-      - name: "Reviewer"
-        summary: "Journal of Official Statistics"
+        highlights: 
+          - "Journal of Statistics and Data Science Education"
+          - "Journal of Survey Statistics and Methodology"
+          - "Journal of Statistical Software"
+          - "Public Opinion Quarterly"
+          - "Harvard Data Science Review"
+          - "Computational Statistics and Data Analysis"
+          - "Journal of Official Statistics"
     Teaching:
       - company: "University of Maryland"
         position: "Instructor"
         start_date: "2017-10"
         end_date: "present"
         highlights:
+          - "Undergraduate Courses"
           - "SDSB180 (formerly BSOS180): Introduction to Data Management (Fall
             2024, Spring 2025, Fall 2025, Spring 2026)"
           - "SDSB123 (formerly BSOS188C): Social Data Science: Pathways and
