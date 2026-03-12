@@ -344,13 +344,16 @@ cv:
         highlights:
           - "Funding: $30,000"
     Awards:
-      - name: "Dissertation Year Fellowship"
+      - title: "Dissertation Year Fellowship"
+        awarder: University of California, Los Angeles
         start_date: 2016-09
         end_date: 2017-06
-      - name: "Collegium of University Teaching Fellows"
+      - title: "Collegium of University Teaching Fellows"
+        awarder: University of California, Los Angeles
         start_date: 2016-09
         end_date: 2017-06
-      - name: "Graduate Dean’s Scholar Award"
+      - title: "Graduate Dean’s Scholar Award"
+        awarder: University of California, Los Angeles
         start_date: 2012-06
         end_date: 2014-09
     Other Academic Work:
