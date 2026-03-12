@@ -1,10 +1,10 @@
 ---
 layout: page
-title: JupyterHub for Programming Courses at University of Maryland 
+title: JupyterHub for UMD BSOS Courses  
 description: with background image
 img: assets/img/jupyter-logo.png
 importance: 1
-category: work
+category: teaching
 related_publications: true
 ---
 
