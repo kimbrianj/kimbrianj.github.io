@@ -238,7 +238,7 @@ cv:
       - title: "The Value of Science: Special Theme"
         authors: 
           - "J. Lane"
-          - "*B. Kim*"
+          - "**B. Kim**"
           - "F. Kreuter"
           - "A. Nunez"
         publisher: "Harvard Data Science Review"
@@ -246,13 +246,13 @@ cv:
         doi: "10.1162/99608f92.4a01213d"
       - title: "Scaling Up Data Science for the Social Sciences"
         authors:
-          - "*B. Kim*"
+          - "**B. Kim**"
         publisher: "Harvard Data Science Review"
         releaseDate: "2021"
         doi: "10.1162/99608f92.d3f14ea4"
       - title: "Workbooks"
         authors:
-          - "*B. Kim*"
+          - "**B. Kim**"
           - "C. Kern"
           - "J. Morgan"
           - "C. Hunter"
@@ -372,7 +372,6 @@ cv:
         start_date: "2017-10"
         end_date: "present"
         highlights:
-          - "Undergraduate Courses"
           - "SDSB180 (formerly BSOS180): Introduction to Data Management (Fall
             2024, Spring 2025, Fall 2025, Spring 2026)"
           - "SDSB123 (formerly BSOS188C): Social Data Science: Pathways and
