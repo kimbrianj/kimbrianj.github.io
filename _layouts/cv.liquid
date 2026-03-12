@@ -120,7 +120,7 @@ layout: default
           </div>
         {% endif %}
 
-        <!-- RenderCV Sections - Merge Experience and Volunteer -->
+        <!-- RenderCV Sections - Merge Experience and Volunteer 
         {% comment %} First, combine Experience and Volunteer entries {% endcomment %}
         {% assign empty_array = '' | split: ',' %}
         {% assign exp = cv.sections.Experience | default: empty_array %}
@@ -135,7 +135,7 @@ layout: default
               {% include cv/experience.liquid %}
             </div>
           </div>
-        {% endif %}
+        {% endif %} -->
 
         {% comment %} Now render all other sections except Experience and Volunteer {% endcomment %}
         {% for section_pair in cv.sections %}
@@ -154,6 +154,9 @@ layout: default
               {% if section_title == 'Education' %}
                 {% assign entries = section_entries %}
                 {% include cv/education.liquid %}
+              {% if section_title == 'Experience' %}
+                {% assign entries = section_entries %}
+                {% include cv/experience.liquid %}
               {% elsif section_title == 'Grants and Awards' %}
                 {% assign entries = section_entries %}
                 {% include cv/grants.liquid %}
@@ -172,6 +175,9 @@ layout: default
               {% elsif section_title == 'Other Academic Work' %}
                 {% assign entries = section_entries %}
                 {% include cv/grants.liquid %}
+              {% elsif section_title == 'Teaching' %}
+                {% assign entries = section_entries %}
+                {% include cv/experience.liquid %}
               {% elsif section_title == 'Book Chapters and Non-Refereed Publications' %}
                 {% assign entries = section_entries %}
                 {% include cv/publications.liquid %}

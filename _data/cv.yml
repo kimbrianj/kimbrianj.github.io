@@ -321,37 +321,43 @@ cv:
         awarder: "National Agricultural Statistics Service"
         summary: "Funding: $653,490"
       - name: "Teaching Innovations Grant"
-        date: "June 2020 – August 2020"
+        start_date: 2020-06
+        end_date: 2020-08
         awarder: University of Maryland 
         summary: "Funding: $18,000"
       - name: "Teaching Innovations Grant"
-        date: "June 2020 – August 2020"
+        start_date: 2020-06
+        end_date: 2020-08
         awarder: University of Maryland 
         summary: "Funding: $5,000"
       - name: "Developing a New Course in Data Science: Introduction to Data Science
           for Social Sciences (PI)" 
-        date: "July 2019 – May 2020"
+        start_date: 2019-07
+        end_date: 2020-05
         awarder: "UMD Year of Data Science"
         summary: "Funding: $17,500"
       - name: "Feasibility Testing of a Respondent-Driven Sampling Approach to Recruit Human Trafficking Victims"
-        date: "December 2018 – July 2019"
+        start_date: 2018-12
+        end_date: 2019-07
         summary: "Funding: $30,000"
         awarder: "Governor’s Office of Crime Control and Prevention"
       - name: "Dissertation Year Fellowship"
         awarder: University of California, Los Angeles
-        date: 2016
+        start_date: 2016
       - name: "Collegium of University Teaching Fellows"
         awarder: University of California, Los Angeles
-        date: 2016
+        start_date: 2016
       - name: "Graduate Dean’s Scholar Award"
         awarder: University of California, Los Angeles
-        date: 2012
+        start_date: 2012
     Other Academic Work:
       - name: "Guest Editor"
-        date: "2022"
+        start_date: "2022"
         highlights: 
           - "Harvard Data Science Review, Special Theme: Value of Science. Issue 4.2."
       - name: "Reviewer"
+        start_date: 2018
+        end_date: present
         highlights: 
           - "Journal of Statistics and Data Science Education"
           - "Journal of Survey Statistics and Methodology"
@@ -371,28 +377,28 @@ cv:
             2024, Spring 2025, Fall 2025, Spring 2026)"
           - "SDSB123 (formerly BSOS188C): Social Data Science: Pathways and
             Applications (Fall 2024, Spring 2025, Fall 2025, Spring 2026)"
-          - "Undergraduate Courses: SDSB326 (formerly BSOS326): Python
+          - "SDSB326 (formerly BSOS326): Python
             Programming for Social Science (Spring 2024)"
-          - "Undergraduate Courses: SDSB233 (formerly BSOS233): Data Science for
+          - "SDSB233 (formerly BSOS233): Data Science for
             Social Sciences (Fall 2019, Spring 2020, Spring 2022, Fall 2022,
             Spring 2023)"
-          - "Undergraduate Courses: INST 314: Statistics for Information Science
+          - "INST 314: Statistics for Information Science
             (Fall 2018)"
-          - "Undergraduate Courses: INST 354: Decision Making for Information
+          - "INST 354: Decision Making for Information
             Science (Spring 2019)"
-          - "Graduate Courses: SURV 613: Machine Learning for Social Sciences
+          - "SURV 613: Machine Learning for Social Sciences
             (Fall 2020, Fall 2021, Spring 2023, Spring 2024, Spring 2025, Spring
             2026)"
-          - "Graduate Courses: SURV 622: Fundamentals of Data Collection (Spring
+          - "SURV 622: Fundamentals of Data Collection (Spring
             2020, Spring 2021, Spring 2022)"
-          - "Graduate Courses: SURV 673: Introduction to Python & SQL (Fall
+          - "SURV 673: Introduction to Python & SQL (Fall
             2018, Spring 2019, Summer 2019, Fall 2019, Fall 2020, Summer 2020,
             Summer 2021)"
-          - "Graduate Courses: SURV 699M: Review of Statistical Concepts (Summer
+          - "SURV 699M: Review of Statistical Concepts (Summer
             2018, Summer 2019, Summer 2020, Summer 2021)"
-          - "Graduate Courses: SURV 701: Analysis of Complex Sample Survey Data
+          - "SURV 701: Analysis of Complex Sample Survey Data
             (Spring 2021)"
-          - "Graduate Courses: SURV 727: Fundamentals of Computing and Data
+          - "SURV 727: Fundamentals of Computing and Data
             Display (Fall 2022, Fall 2023, Fall 2024, Fall 2025)"
       - company: "University of California, Los Angeles"
         position: "Instructor"
@@ -437,7 +443,7 @@ cv:
       - bullet: "Member, Social Data Science Advisor Search Committee"
       - bullet: "Member, Social Data Science Steering Committee"
       - bullet: "Member, JPSM/MPSM Teaching Assignment Committee"
-    Technical Strengths:
+    Skills:
       - label: "Statistical Software"
         details: "Highly skilled in R, SQL and Python, including various packages such
           as Rcpp, caret, tidyverse, tidymodels, and more (in R); and pandas,
