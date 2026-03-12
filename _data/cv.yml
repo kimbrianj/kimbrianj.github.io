@@ -344,9 +344,15 @@ cv:
         highlights:
           - "Funding: $30,000"
     Awards:
-      - bullet: "Dissertation Year Fellowship (September 2016 – June 2017)"
-      - bullet: "Collegium of University Teaching Fellows (September 2016 – June 2017)"
-      - bullet: "Graduate Dean’s Scholar Award (June 2012 – September 2014)"
+      - name: "Dissertation Year Fellowship"
+        start_date: 2016-09
+        end_date: 2017-06
+      - name: "Collegium of University Teaching Fellows"
+        start_date: 2016-09
+        end_date: 2017-06
+      - name: "Graduate Dean’s Scholar Award"
+        start_date: 2012-06
+        end_date: 2014-09
     Other Academic Work:
       - name: "Guest Editor"
         date: "Spring 2022"
