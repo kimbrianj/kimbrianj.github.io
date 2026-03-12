@@ -169,9 +169,12 @@ layout: default
               {% elsif section_title == 'Software and Data' %}
                 {% assign entries = section_entries %}
                 {% include cv/publications.liquid %}
+              {% elsif section_title == 'Other Academic Work' %}
+                {% assign entries = section_entries %}
+                {% include cv/grants.liquid %}
               {% elsif section_title == 'Book Chapters and Non-Refereed Publications' %}
                 {% assign entries = section_entries %}
-                {% include cv/chapters.liquid %}
+                {% include cv/publications.liquid %}
               {% elsif section_title == 'Interests' or section_title == 'Academic Interests' %}
                 {% assign entries = section_entries %}
                 {% include cv/interests.liquid %}

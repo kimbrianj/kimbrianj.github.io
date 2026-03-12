@@ -349,7 +349,8 @@ cv:
     Other Academic Work:
       - name: "Guest Editor"
         date: "2022"
-        highlights: "Harvard Data Science Review, Special Theme: Value of Science. Issue 4.2."
+        highlights: 
+          - "Harvard Data Science Review, Special Theme: Value of Science. Issue 4.2."
       - name: "Reviewer"
         highlights: 
           - "Journal of Statistics and Data Science Education"
