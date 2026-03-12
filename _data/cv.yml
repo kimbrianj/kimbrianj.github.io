@@ -130,7 +130,8 @@ cv:
           - "*B. Kim*"
           - "D. Suolang"
           - "C. Engstrom"
-          - "J. Sinibaldi"        publisher: "Journal of Official Statistics. 41 (1), 329-364"
+          - "J. Sinibaldi"        
+        publisher: "Journal of Official Statistics. 41 (1), 329-364"
         releaseDate: "2025"
         url: "https://www.doi.org/10.1177/0282423X241287452"
       - title: "Hidden Population Size Estimation and Diagnostics Using Two
@@ -153,7 +154,8 @@ cv:
           - "E. Sande"
           - "H. Kiyingi"
           - "D. Serwadda"
-          - "W. Hladik"        publisher: "Social Networks. 69, 74-83"
+          - "W. Hladik"        
+        publisher: "Social Networks. 69, 74-83"
         releaseDate: "2022-05"
         url: "https://www.doi.org/10.1016/j.socnet.2020.05.001"
       - title: "Population Size Estimation Using Multiple Respondent-Driven Sampling
