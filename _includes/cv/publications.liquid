@@ -35,9 +35,7 @@
 
             {% if entry.authors %}
               <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
-              {% for author in entry.authors %}
-                {{ author }},
-              {% endfor %}
+              {{entry.authors | join: ', ' | replace: "B. Kim", "<strong>B. Kim</strong>"}}
               </h6>
             {% endif %}
 
@@ -63,9 +61,7 @@
 
             {% if entry.authors %}
               <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
-              {% for author in entry.authors %}
-                {{ author }},
-              {% endfor %}
+              {{entry.authors | join: ', ' | replace: "B. Kim", "<strong>B. Kim</strong>"}}
               </h6>
             {% endif %}
 
