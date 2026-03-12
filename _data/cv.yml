@@ -124,36 +124,36 @@ cv:
             full research lifecycle."
     Publications:
       - title: "Using a Stopping Rule to Optimize Cost-Quality Tradeoffs in a Large, Mixed-Mode Survey: A Simulation Study"
-        authors: J. Wagner, B. West, **B. Kim**, D. Suolang, C. Engstrom, J. Sinibaldi
+        authors: "J. Wagner, B. West, **B. Kim**, D. Suolang, C. Engstrom, J. Sinibaldi"
         publisher: "Journal of Official Statistics. 41 (1), 329-364"
         releaseDate: "2025"
         url: "https://www.doi.org/10.1177/0282423X241287452"
       - title: "Hidden Population Size Estimation and Diagnostics Using Two
           Respondent-Driven Samples with Applications in Armenia"
-        authors: **B. Kim**, L. G. Johnston, T. Grigoryan, A. Papoyan, S. Grigoryan, K. R. McLaughlin
+        authors: "**B. Kim**, L. G. Johnston, T. Grigoryan, A. Papoyan, S. Grigoryan, K. R. McLaughlin"
         publisher: "Biometrical Journal, 00, 2200136"
         releaseDate: "2023-06"
         url: "https://www.doi.org/10.1002/bimj.202200136"
       - title: "Using Geographical Data and Rolling Statistics for Diagnostics of
           Respondent-Driven Sampling"
-        authors: **B. Kim**, M. Ogwal, E. Sande, H. Kiyingi, D. Serwadda, W. Hladik
+        authors: "**B. Kim**, M. Ogwal, E. Sande, H. Kiyingi, D. Serwadda, W. Hladik"
         publisher: "Social Networks. 69, 74-83"
         releaseDate: "2022-05"
         url: "https://www.doi.org/10.1016/j.socnet.2020.05.001"
       - title: "Population Size Estimation Using Multiple Respondent-Driven Sampling
           Surveys"
-        authors: **B. Kim**, M. Handcock
+        authors: "**B. Kim**, M. Handcock"
         publisher: "Journal of Survey Statistics and Methodology. 9(1), 94-120"
         releaseDate: "2021-02"
         url: "https://www.doi.org/10.1093/jssam/smz055"
       - title: "Easy-to-Use Cloud Computing for Teaching Data Science"
-        authors: **B. Kim**, G. Henke
+        authors: "**B. Kim**, G. Henke"
         publisher: "Journal of Statistics Education. 29:sup1, S103-S111"
         releaseDate: "2020"
         url: "https://www.doi.org/10.1080/10691898.2020.1860726"
       - title: "Partnering with a global platform to inform research and public policy
           making"
-        authors: F. Kreuter, N. Barkay, A. Bilinski, A. Bradford, S. Chiu, R. Eliat, J. Fan, T. Galili, D. Haimovich, **B. Kim**, S. LaRocca, Y. Li, K. Morris, S. Presser, T. Sarig, J. A. Salomon, K. Stewart, E. A. Stuart, R. Tibshirani
+        authors: "F. Kreuter, N. Barkay, A. Bilinski, A. Bradford, S. Chiu, R. Eliat, J. Fan, T. Galili, D. Haimovich, **B. Kim**, S. LaRocca, Y. Li, K. Morris, S. Presser, T. Sarig, J. A. Salomon, K. Stewart, E. A. Stuart, R. Tibshirani"
         publisher: "Survey Research Methods, 14(2), 159-163"
         releaseDate: "2020-06"
         url: "https://www.doi.org/10.18148/srm/2020.v14i2.7761"
