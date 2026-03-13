@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of various pedagogical and research projects.
 nav: true
 nav_order: 3
-display_categories: [teaching, fun]
+display_categories: [teaching]
 horizontal: false
 ---
 
