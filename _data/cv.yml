@@ -10,7 +10,8 @@ cv:
     Education:
       - institution: University of California, Los Angeles
         location: Los Angeles, CA
-        degree: PhD in Statistics
+        degree: PhD
+        area: Statistics
         end_date: 2017-10
         highlights:
           - "Dissertation: Population Size Estimation using Multiple Respondent-Driven Samples"
@@ -18,7 +19,8 @@ cv:
         
       - institution: Amherst College
         location: Amherst, MA
-        degree: BA in Mathematics & Philosophy
+        degree: BA
+        area: Mathematics & Philosophy
         end_date: 2012-06
         highlights:
           - Graduated with Honors in Mathematics
@@ -266,22 +268,41 @@ cv:
       - title: "A Hybrid Household and Respondent-Driven Sampling Strategy for Reaching Underrepresented Groups"
         releaseDate: "2023-08"
         publisher: "Joint Statistical Meetings, Toronto, CA"
+        authors:
+          - "**B. Kim**"
+          - "A. Gard"
       - title: "Machine Learning Model Selection for Complex Sample Survey Data"
         releaseDate: "August 2020"
         publisher: "Symposium on Data Science and Statistics"
+        authors:
+          - "**B. Kim**"
       - title: "Data 8 Adoption at University of Maryland"
         releaseDate: "2020-06"
         publisher: "National Workshop on Data Science Education, Berkeley, CA"
+        authors:
+          - "**B. Kim**"
       - title: "Population Size Estimation Using Multiple Respondent-Driven Sampling
           Surveys"
         releaseDate: "2019-08"
         publisher: "Joint Statistical Meetings, Denver, CO"
+        authors:
+          - "**B. Kim**"
+          - "M. Handcock"
       - title: "Teaching Data Science Using Jupyter Notebooks and Binder"
         releaseDate: "2019-05"
         publisher: "Symposium on Data Science and Statistics, Bellevue, WA"
+        authors:
+          - "**B. Kim**"
       - title: "Assessing Respondent-Driven Sampling Using Geographical Data"
         releaseDate: "November 2018"
         publisher: "North American Social Network Conference, Washington, D.C."
+        authors:
+          - "**B. Kim**"
+          - "M. Ogwal"
+          - "E. Sande"
+          - "H. Kiyingi"
+          - "D. Serwadda"
+          - "W. Hladik"  
     Grants and Awards:
       - name: "Advancing Computational Expertise in Neuroscience and Psychology (co-PI)"
         start_date: "2025-05"
