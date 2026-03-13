@@ -2,6 +2,7 @@ cv:
   name: Brian Kim
   location: College Park, MD
   email: kimbrian@umd.edu
+  website: https://kimbrianj.github.io
   social_networks:
     - network: GitHub
       username: kimbrianj
@@ -9,16 +10,15 @@ cv:
     Education:
       - institution: University of California, Los Angeles
         location: Los Angeles, CA
-        area: Statistics
-        degree: PhD
+        degree: PhD in Statistics
         end_date: 2017-10
         highlights:
           - "Dissertation: Population Size Estimation using Multiple Respondent-Driven Samples"
         start_date: 2012-09
         
       - institution: Amherst College
-        area: Mathematics & Philosophy
-        degree: BA
+        location: Amherst, MA
+        degree: BA in Mathematics & Philosophy
         end_date: 2012-06
         highlights:
           - Graduated with Honors in Mathematics
@@ -61,16 +61,6 @@ cv:
         start_date: "2024-07"
         end_date: "present"
         location: "College Park, MD"
-        highlights:
-          - "Developed and implemented innovative teaching assignments and tools
-            including: cloud-based programming workbooks using JupyterHub
-            (multiple classes); a board game decision analysis project for an
-            undergraduate class (INST 354: Decision Making for Information
-            Science); a data disclosure-proofing project (SURV 622: Fundamentals
-            of Data Collection); and a custom R package containing tutorials
-            (SURV 613: Machine Learning for Social Science)."
-          - "Taught classes on introductory statistics, data science, machine learning, and programming for both undergraduate and graduate students, utilizing traditional and flipped classroom formats in online, in-person, and HyFlex modes."
-          - "As part of an NSF grant, managed and oversaw the development and day-to-day operations of data analytics training courses for working professionals and graduate students at the National Center for Science and Engineering Statistics (NCSES) at the National Science Foundation (NSF)."
       - company: "Joint Program in Survey Methodology, University of Maryland"
         position: "Assistant Research Professor"
         start_date: "2020-08"
@@ -82,6 +72,16 @@ cv:
         start_date: "2017-10"
         end_date: "2020-08"
         location: "College Park, MD"
+        highlights:
+          - "Developed and implemented innovative teaching assignments and tools
+            including: cloud-based programming workbooks using JupyterHub
+            (multiple classes); a board game decision analysis project for an
+            undergraduate class (INST 354: Decision Making for Information
+            Science); a data disclosure-proofing project (SURV 622: Fundamentals
+            of Data Collection); and a custom R package containing tutorials
+            (SURV 613: Machine Learning for Social Science)."
+          - "Taught classes on introductory statistics, data science, machine learning, and programming for both undergraduate and graduate students, utilizing traditional and flipped classroom formats in online, in-person, and HyFlex modes."
+          - "As part of an NSF grant, managed and oversaw the development and day-to-day operations of data analytics training courses for working professionals and graduate students at the National Center for Science and Engineering Statistics (NCSES) at the National Science Foundation (NSF)."
 
       - company: "The Coleridge Initiative"
         position: "Consultant/Facilitator"
@@ -244,11 +244,13 @@ cv:
         publisher: "Harvard Data Science Review"
         releaseDate: "2022"
         doi: "10.1162/99608f92.4a01213d"
+        url: https://doi.org/10.1162/99608f92.4a01213d
       - title: "Scaling Up Data Science for the Social Sciences"
         authors:
           - "**B. Kim**"
         publisher: "Harvard Data Science Review"
         releaseDate: "2021"
+        url: https://doi.org/10.1162/99608f92.d3f14ea4
         doi: "10.1162/99608f92.d3f14ea4"
       - title: "Workbooks"
         authors:
@@ -261,26 +263,25 @@ cv:
         releaseDate: "2021"
         url: "https://textbook.coleridgeinitiative.org/chap-workbooks.html"
     Selected Conference Presentations:
-      - name: "A Hybrid Household and Respondent-Driven Sampling Strategy for Reaching
-          Underrepresented Groups"
-        date: "August 2023"
-        location: "Joint Statistical Meetings, Toronto, CA"
-      - name: "Machine Learning Model Selection for Complex Sample Survey Data"
-        date: "August 2020"
-        location: "Symposium on Data Science and Statistics"
-      - name: "Data 8 Adoption at University of Maryland"
-        date: "June 2020"
-        location: "National Workshop on Data Science Education, Berkeley, CA"
-      - name: "Population Size Estimation Using Multiple Respondent-Driven Sampling
+      - title: "A Hybrid Household and Respondent-Driven Sampling Strategy for Reaching Underrepresented Groups"
+        releaseDate: "2023-08"
+        publisher: "Joint Statistical Meetings, Toronto, CA"
+      - title: "Machine Learning Model Selection for Complex Sample Survey Data"
+        releaseDate: "August 2020"
+        publisher: "Symposium on Data Science and Statistics"
+      - title: "Data 8 Adoption at University of Maryland"
+        releaseDate: "2020-06"
+        publisher: "National Workshop on Data Science Education, Berkeley, CA"
+      - title: "Population Size Estimation Using Multiple Respondent-Driven Sampling
           Surveys"
-        date: "August 2019"
-        location: "Joint Statistical Meetings, Denver, CO"
-      - name: "Teaching Data Science Using Jupyter Notebooks and Binder"
-        date: "May 2019"
-        location: "Symposium on Data Science and Statistics, Bellevue, WA"
-      - name: "Assessing Respondent-Driven Sampling Using Geographical Data"
-        date: "November 2018"
-        location: "North American Social Network Conference, Washington, D.C."
+        releaseDate: "2019-08"
+        publisher: "Joint Statistical Meetings, Denver, CO"
+      - title: "Teaching Data Science Using Jupyter Notebooks and Binder"
+        releaseDate: "2019-05"
+        publisher: "Symposium on Data Science and Statistics, Bellevue, WA"
+      - title: "Assessing Respondent-Driven Sampling Using Geographical Data"
+        releaseDate: "November 2018"
+        publisher: "North American Social Network Conference, Washington, D.C."
     Grants and Awards:
       - name: "Advancing Computational Expertise in Neuroscience and Psychology (co-PI)"
         start_date: "2025-05"
@@ -344,12 +345,15 @@ cv:
       - name: "Dissertation Year Fellowship"
         awarder: University of California, Los Angeles
         start_date: 2016
+        end_date: 2016
       - name: "Collegium of University Teaching Fellows"
         awarder: University of California, Los Angeles
         start_date: 2016
+        end_date: 2016
       - name: "Graduate Dean’s Scholar Award"
         awarder: University of California, Los Angeles
         start_date: 2012
+        end_date: 2014
     Other Academic Work:
       - name: "Guest Editor"
         start_date: "2022"

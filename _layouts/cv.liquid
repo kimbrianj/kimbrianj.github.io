@@ -186,9 +186,9 @@ layout: default
               {% elsif section_title == 'Interests' or section_title == 'Academic Interests' %}
                 {% assign entries = section_entries %}
                 {% include cv/interests.liquid %}
-              {% elsif section_title == 'Certificates' %}
+              {% elsif section_title == 'Selected Conference Presentations' %}
                 {% assign entries = section_entries %}
-                {% include cv/certificates.liquid %}
+                {% include cv/presentations.liquid %}
               {% elsif section_title == 'Projects' or section_title == 'Open Source Projects' %}
                 {% assign entries = section_entries %}
                 {% include cv/projects.liquid %}
