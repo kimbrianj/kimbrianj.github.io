@@ -1,7 +1,7 @@
 ---
 layout: page
 title: JupyterHub for UMD BSOS Courses  
-description: with background image
+description: A cloud-based computing environment social science statistics and data science courses.
 img: assets/img/jupyter-logo.png
 importance: 1
 category: teaching

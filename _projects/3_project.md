@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Online Python/SQL Textbook
+description: An online Introduction to Python and SQL textbook created for short courses
+img: assets/img/logo.png
+redirect: https://kimbrianj.github.io/Introduction-Python-SQL/
 importance: 3
-category: work
+category: teaching
 ---
 
 Every project has a beautiful feature showcase page.
