@@ -148,7 +148,7 @@ layout: default
             {% continue %}
           {% endif %}
           {% endcomment %}
-          
+
           <a class="anchor" id="{{ section_title | slugify }}"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">{{ section_title }}</h3>
@@ -156,7 +156,7 @@ layout: default
               {% if section_title == 'Education' %}
                 {% assign entries = section_entries %}
                 {% include cv/education.liquid %}
-              {% if section_title == 'Experience' %}
+              {% elsif section_title == 'Experience' %}
                 {% assign entries = section_entries %}
                 {% include cv/experience.liquid %}
               {% elsif section_title == 'Grants and Awards' %}
