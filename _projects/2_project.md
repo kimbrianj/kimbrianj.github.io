@@ -40,7 +40,7 @@ The BSOS Data Repository is designed to make it easier for social science instru
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dashboard-snapshot.png" title="BSOS Data Dashboard Snapshot. Has information about datasets within the dashboard, such as number of datasets and keywords like "Descriptive Statistics." class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dashboard-snapshot.png" title="BSOS Data Dashboard Snapshot. Has information about datasets within the dashboard, such as number of datasets and keywords." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
