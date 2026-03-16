@@ -5,17 +5,24 @@ description: A repository with curated social science datasets for pedagogical p
 img: assets/img/bsos-data.png
 importance: 2
 category: teaching
-giscus_comments: true
+giscus_comments: false
 ---
 
 ## Motivation 
 
-One of the biggest challenges for faculty within the social sciences teaching statistics and data science courses is developing data examples that are relevant, 
-interesting, and structured. Using project-based learning and incorporating real-life datasets is invaluable for learning how exactly data science can be applied
-in the discipline, but the burden on faculty to clean, manage, and test the datasets is huge. The BSOS Data Repository was built as a response to calls from faculty
-across various BSOS departments about the need for high quality social science datasets.
+One of the biggest challenges for social science faculty teaching statistics and data science courses is developing data examples that are relevant, 
+interesting, and structured. Many instructors at University of Maryland had worked through updates to their courses to incorporate programming to keep up with modern data analysis techniques, but incorporating engaging and relevant datasets proved to be more difficult.  Using project-based learning and incorporating real-life datasets is invaluable for learning how exactly data science can be applied in the discipline, but the burden on faculty to clean, manage, and test the datasets is huge. The BSOS Data Repository was built as a response to calls from faculty across various BSOS departments about the need for high quality social science datasets.
 
 The University of Maryland Teaching and Learning Transformation Center (TLTC) Experiential Learning program-level grant gave us the opportunity to build this data repository, alongside a new undergraduate Data Curation Fellowship.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dataset-search.png" title="BSOS Data Repository." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Instructors can search the data repository to find datasets that they might want to use in their classes. Helpful tags such as "Machine Learning" or "Text/NLP" can help narrow down the topics to find an appropriate dataset quickly. 
+</div>
 
 ## Data Curation Fellowship
 
@@ -31,17 +38,11 @@ directly support faculty research and undergraduate instruction.
 
 The BSOS Data Repository is designed to make it easier for social science instructors to find the datasets that they want to use with as little extra work needed. To that end, these datasets are not only curated with multiple version, but also include comprehensive documentation, summaries, visual dashboards, and example code to make the process as painless as possible.  
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dashboard-snapshot.png" title="BSOS Data Dashboard Snapshot. Has information about datasets within the dashboard, such as number of datasets and keywords like "Descriptive Statistics." class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
-
-{% endraw %}
+<div class="caption">
+    A dashboard snapshot on the front page provides a quick look at the datasets available, with options to peruse datasets individually or search for datasets using the full dashboard tool.
+</div>

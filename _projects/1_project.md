@@ -5,7 +5,7 @@ description: A cloud-based computing environment social science statistics and d
 img: assets/img/jupyter-logo.png
 importance: 1
 category: teaching
-related_publications: true
+related_publications: false
 ---
 
 ## Motivation
@@ -18,7 +18,7 @@ In an increasingly data-driven world, learning modern data analysis techniques h
 In particular, we sought to lower the barrier to entry into data science courses for students within social sciences who may not have had a strong math background and have not taken any programming courses. Furthermore, we aimed to demystify programming and avoid losing students who saw coding as a daunting task that they could not handle. To that end, we looked for solutions that helped us show the payoffs of coding with as little friction as possible, allowing students to see what was possible with as little lead-up and ramp up needed.
 
 ## JupyterHub Computing Environment
-To reduce the burden on students and improve data science education within the College of Behavioral and Social Sciences (BSOS), we built a JupyterHub cloud computing environment which can be accessed through a browser and provide a streamlined experience for students. Students do not need to install anything on their computers, and powerful pedagogical tools can be employed within the shared cloud space. Cloud-based programming also improves accessibility for students because the computational burden is placed on BSOS-maintained servers and does not require physical computer lab attendance. 
+To reduce the burden on students and improve data science education within the College of Behavioral and Social Sciences (BSOS), we built a [JupyterHub cloud computing environment](https://jupyterhub.umd.edu) (link uses UMD authentication) which can be accessed through a browser and provide a streamlined experience for students. Students do not need to install anything on their computers, and powerful pedagogical tools can be employed within the shared cloud space. Cloud-based programming also improves accessibility for students because the computational burden is placed on BSOS-maintained servers and does not require physical computer lab attendance. 
 
 We based the infrastructure on material and best practices described by the [Data 8 team at University of California, Berkeley](https://data8.org). We implemented many of the features described in their setup, such using nbgitpuller for distributing material to students without needing to interact with Git and GitHub directly. 
 
