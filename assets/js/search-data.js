@@ -416,26 +416,26 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-jupyterhub-for-umd-bsos-courses",
-          title: 'JupyterHub for UMD BSOS Courses',
-          description: "A cloud-based computing environment social science statistics and data science courses.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-social-science-data-repository",
+          section: "News",},{id: "projects-social-science-data-repository",
           title: 'Social Science Data Repository',
           description: "A repository with curated social science datasets for pedagogical purposes supported by an undergraduate fellowship",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/data_repository_project/";
+            },},{id: "projects-jupyterhub-for-umd-bsos-courses",
+          title: 'JupyterHub for UMD BSOS Courses',
+          description: "A cloud-based computing environment social science statistics and data science courses.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/jupyterhub_project/";
             },},{id: "projects-online-python-sql-textbook",
           title: 'Online Python/SQL Textbook',
           description: "An online Introduction to Python and SQL textbook created for short courses",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/python_sql_textbook_project/";
+            },},{id: "projects-r-tutorials-using-learnr",
+          title: 'R Tutorials using learnr',
+          description: "Browser-based R tutorials with exercise questions, a coding interface, and immediate feedback",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/tutorials_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
