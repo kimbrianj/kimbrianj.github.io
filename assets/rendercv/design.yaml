@@ -137,5 +137,5 @@ design:
       main_column: |-
         **TITLE**
         *AUTHORS*
-        JOURNAL (URL)
+        PUBLISHER (URL)
       date_and_location_column: DATE
