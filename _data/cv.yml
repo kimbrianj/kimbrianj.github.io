@@ -58,21 +58,10 @@ cv:
             teaching assistant opportunities on campus."
           - "Chaired the Master’s Admissions committee and coordinated with the
             Director of JPSM on recruitment efforts."
-      - company: "JPSM/BSOS"
+      - company: "Social Data Science; Joint Program in Survey Methodology"
         position: "Associate Research Professor"
         start_date: "2024-07"
         end_date: "present"
-        location: "College Park, MD"
-      - company: "Joint Program in Survey Methodology, University of Maryland"
-        position: "Assistant Research Professor"
-        start_date: "2020-08"
-        end_date: "2024-07"
-        location: "College Park, MD"
-
-      - company: "Joint Program in Survey Methodology, University of Maryland"
-        position: Lecturer
-        start_date: "2017-10"
-        end_date: "2020-08"
         location: "College Park, MD"
         highlights:
           - "Developed and implemented innovative teaching assignments and tools
@@ -84,6 +73,18 @@ cv:
             (SURV 613: Machine Learning for Social Science)."
           - "Taught classes on introductory statistics, data science, machine learning, and programming for both undergraduate and graduate students, utilizing traditional and flipped classroom formats in online, in-person, and HyFlex modes."
           - "As part of an NSF grant, managed and oversaw the development and day-to-day operations of data analytics training courses for working professionals and graduate students at the National Center for Science and Engineering Statistics (NCSES) at the National Science Foundation (NSF)."
+
+      - company: "Social Data Science; Joint Program in Survey Methodology"
+        position: "Assistant Research Professor"
+        start_date: "2020-08"
+        end_date: "2024-07"
+        location: "College Park, MD"
+
+      - company: "Joint Program in Survey Methodology, University of Maryland"
+        position: Lecturer
+        start_date: "2017-10"
+        end_date: "2020-08"
+        location: "College Park, MD"
 
       - company: "The Coleridge Initiative"
         position: "Consultant/Facilitator"
@@ -146,7 +147,7 @@ cv:
           - "S. Grigoryan"
           - "K. R. McLaughlin"
         publisher: "Biometrical Journal, 00, 2200136"
-        releaseDate: "2023-06"
+        releaseDate: "2023"
         url: "https://www.doi.org/10.1002/bimj.202200136"
       - title: "Using Geographical Data and Rolling Statistics for Diagnostics of
           Respondent-Driven Sampling"
@@ -158,7 +159,7 @@ cv:
           - "D. Serwadda"
           - "W. Hladik"        
         publisher: "Social Networks. 69, 74-83"
-        releaseDate: "2022-05"
+        releaseDate: "2022"
         url: "https://www.doi.org/10.1016/j.socnet.2020.05.001"
       - title: "Population Size Estimation Using Multiple Respondent-Driven Sampling
           Surveys"
@@ -166,7 +167,7 @@ cv:
           - "**B. Kim**"
           - "M. Handcock"
         publisher: "Journal of Survey Statistics and Methodology. 9(1), 94-120"
-        releaseDate: "2021-02"
+        releaseDate: "2021"
         url: "https://www.doi.org/10.1093/jssam/smz055"
       - title: "Easy-to-Use Cloud Computing for Teaching Data Science"
         authors:
@@ -198,7 +199,7 @@ cv:
           - "E. A. Stuart"
           - "R. Tibshirani"
         publisher: "Survey Research Methods, 14(2), 159-163"
-        releaseDate: "2020-06"
+        releaseDate: "2020"
         url: "https://www.doi.org/10.18148/srm/2020.v14i2.7761"
     Software and Data:
       - title: "sspse: Estimating Hidden Population Size using Respondent Driven
@@ -266,7 +267,7 @@ cv:
         url: "https://textbook.coleridgeinitiative.org/chap-workbooks.html"
     Selected Conference Presentations:
       - title: "A Hybrid Household and Respondent-Driven Sampling Strategy for Reaching Underrepresented Groups"
-        releaseDate: "2023-08"
+        releaseDate: "August 2023"
         publisher: "Joint Statistical Meetings, Toronto, CA"
         authors:
           - "**B. Kim**"
@@ -277,19 +278,19 @@ cv:
         authors:
           - "**B. Kim**"
       - title: "Data 8 Adoption at University of Maryland"
-        releaseDate: "2020-06"
+        releaseDate: "June 2020"
         publisher: "National Workshop on Data Science Education, Berkeley, CA"
         authors:
           - "**B. Kim**"
       - title: "Population Size Estimation Using Multiple Respondent-Driven Sampling
           Surveys"
-        releaseDate: "2019-08"
+        releaseDate: "August 2019"
         publisher: "Joint Statistical Meetings, Denver, CO"
         authors:
           - "**B. Kim**"
           - "M. Handcock"
       - title: "Teaching Data Science Using Jupyter Notebooks and Binder"
-        releaseDate: "2019-05"
+        releaseDate: "May 2019"
         publisher: "Symposium on Data Science and Statistics, Bellevue, WA"
         authors:
           - "**B. Kim**"
@@ -377,13 +378,13 @@ cv:
         end_date: 2014
     Other Academic Work:
       - name: "Guest Editor"
-        start_date: "2022"
-        highlights: 
+        date: "2022"
+        summary: 
           - "Harvard Data Science Review, Special Theme: Value of Science. Issue 4.2."
       - name: "Reviewer"
         start_date: 2018
         end_date: present
-        highlights: 
+        summary: 
           - "Journal of Statistics and Data Science Education"
           - "Journal of Survey Statistics and Methodology"
           - "Journal of Statistical Software"
@@ -397,10 +398,11 @@ cv:
         start_date: "2017-10"
         end_date: "present"
         highlights:
-          - "SDSB180 (formerly BSOS180): Introduction to Data Management (Fall
-            2024, Spring 2025, Fall 2025, Spring 2026)"
-          - "SDSB123 (formerly BSOS188C): Social Data Science: Pathways and
-            Applications (Fall 2024, Spring 2025, Fall 2025, Spring 2026)"
+          - "SDSB180 (formerly BSOS180): **Introduction to Data Management** 
+            - Fall 2024, Spring 2025, Fall 2025, Spring 2026"
+          - "SDSB123 (formerly BSOS188C): **Social Data Science: Pathways and
+            Applications** 
+              - (Fall 2024, Spring 2025, Fall 2025, Spring 2026)"
           - "SDSB326 (formerly BSOS326): Python
             Programming for Social Science (Spring 2024)"
           - "SDSB233 (formerly BSOS233): Data Science for
