@@ -2,7 +2,7 @@
 layout: page
 title: R Tutorials using learnr
 description: Browser-based R tutorials with exercise questions, a coding interface, and immediate feedback
-img: tutorial.png
+img: assets/img/tutorial.png
 importance: 4
 category: teaching
 ---
