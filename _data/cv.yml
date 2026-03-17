@@ -238,7 +238,7 @@ cv:
         releaseDate: "2020"
         url: "https://covidmap.umd.edu/api.html"
     Book Chapters and Non-Refereed Publications:
-      - title: "The Value of Science: Special Theme"
+      - title: "The Value of Science: Special Theme. Issue 4.2"
         authors: 
           - "J. Lane"
           - "**B. Kim**"
@@ -251,7 +251,7 @@ cv:
       - title: "Scaling Up Data Science for the Social Sciences"
         authors:
           - "**B. Kim**"
-        publisher: "Harvard Data Science Review"
+        publisher: "Harvard Data Science Review. Issue 3.2"
         releaseDate: "2021"
         url: https://doi.org/10.1162/99608f92.d3f14ea4
         doi: "10.1162/99608f92.d3f14ea4"
@@ -376,17 +376,17 @@ cv:
         highlights: 
           - "Funding: $30,000"
       - name: "Dissertation Year Fellowship"
-        summary: University of California, Los Angeles
         start_date: 2016
         end_date: 2016
+        summary: University of California, Los Angeles
       - name: "Collegium of University Teaching Fellows"
-        summary: University of California, Los Angeles
         start_date: 2016
         end_date: 2016
-      - name: "Graduate Dean’s Scholar Award"
         summary: University of California, Los Angeles
+      - name: "Graduate Dean’s Scholar Award"
         start_date: 2012
         end_date: 2014
+        summary: University of California, Los Angeles
     Other Academic Work:
       - name: "Guest Editor"
         date: "2022"
