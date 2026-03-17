@@ -159,7 +159,7 @@ layout: default
               {% elsif section_title == 'Experience' %}
                 {% assign entries = section_entries %}
                 {% include cv/experience.liquid %}
-              {% elsif section_title == 'Grants and Awards' %}
+              {% elsif section_title == 'Grants' or section_title == 'Grants and Awards' %}
                 {% assign entries = section_entries %}
                 {% include cv/grants.liquid %}
               {% elsif section_title == 'Mentorship' %}
