@@ -308,72 +308,83 @@ cv:
       - name: "Advancing Computational Expertise in Neuroscience and Psychology (co-PI)"
         start_date: "2025-05"
         end_date: 2026-05
-        awarder: "UMD Artificial Intelligence Interdisciplinary Institute: Course Development Grant"
-        summary: "Funding: $10,000"
+        summary: "UMD Artificial Intelligence Interdisciplinary Institute: Course Development Grant"
+        highlights: 
+          - "Funding: $10,000"
       - name: "Cloud-based Active Learning for BSOS Statistics and Data Science
           Courses (PI)"
-        awarder: "UMD Teaching and Learning Transformation Center: Experiential Learning
+        summary: "UMD Teaching and Learning Transformation Center: Experiential Learning
           Grant"
         start_date: "2022-09"
         end_date: 2023-08
-        summary: "Funding: $135,573.72"
+        highlights: 
+          - "Funding: $135,573.72"
       - name: "An Evaluation of Sampling Methodologies for Reaching Underrepresented
           Groups (PI)"
-        awarder: "University of Maryland BSOS Dean’s Research Initiative"
+        summary: "University of Maryland BSOS Dean’s Research Initiative"
         start_date: 2022-06
         end_date: 2023-05
-        summary: "Funding: $19,999"
+        highlights: 
+          - "Funding: $19,999"
       - name: "Global Privacy Monitor (GPM): Learning from External Privacy Stakeholders"
         start_date: 2021-06
         end_date: 2024-05
-        awarder: Facebook, Inc.
-        summary: "Funding: $2,994,731"
+        summary: "Facebook, Inc."
+        highlights: 
+          - "Funding: $2,994,731"
       - name: "Modernizing NCSES Data Collection Approaches (co-PI)" 
         start_date: 2020-09
         end_date: 2021-08
-        awarder: "National Science Foundation, NCSES BAA"
-        summary: "Funding: $88,802"
+        summary: "National Science Foundation, NCSES BAA"
+        highlights: 
+          - "Funding: $88,802"
       - name: "Collaborative Research: Impacts of Hard/Soft Skills on STEM Workforce Trajectories (co-PI)"
         start_date: 2020-05
         end_date: 2025-05
-        awarder: "National Science Foundation, ECR: 1956114"
-        summary: "Funding: $401,716"
+        summary: "National Science Foundation, ECR: 1956114"
+        highlights: 
+          - "Funding: $401,716"
       - name: "Linked Dataset and Virtual Research Data Center (Co-PI)"
         start_date: 2019-08
         end_date: 2024-02
-        awarder: "National Agricultural Statistics Service"
-        summary: "Funding: $653,490"
+        summary: "National Agricultural Statistics Service"
+        highlights: 
+          - "Funding: $653,490"
       - name: "Teaching Innovations Grant"
         start_date: 2020-06
         end_date: 2020-08
-        awarder: University of Maryland 
-        summary: "Funding: $18,000"
+        summary: University of Maryland 
+        highlights:
+          - "Funding: $18,000"
       - name: "Teaching Innovations Grant"
         start_date: 2020-06
         end_date: 2020-08
-        awarder: University of Maryland 
-        summary: "Funding: $5,000"
+        summary: University of Maryland 
+        highlights: 
+          - "Funding: $5,000"
       - name: "Developing a New Course in Data Science: Introduction to Data Science
           for Social Sciences (PI)" 
         start_date: 2019-07
         end_date: 2020-05
-        awarder: "UMD Year of Data Science"
-        summary: "Funding: $17,500"
+        summary: "UMD Year of Data Science"
+        highlights: 
+          - "Funding: $17,500"
       - name: "Feasibility Testing of a Respondent-Driven Sampling Approach to Recruit Human Trafficking Victims"
         start_date: 2018-12
         end_date: 2019-07
-        summary: "Funding: $30,000"
-        awarder: "Governor’s Office of Crime Control and Prevention"
+        summary: "Governor’s Office of Crime Control and Prevention"
+        highlights: 
+          - "Funding: $30,000"
       - name: "Dissertation Year Fellowship"
-        awarder: University of California, Los Angeles
+        summary: University of California, Los Angeles
         start_date: 2016
         end_date: 2016
       - name: "Collegium of University Teaching Fellows"
-        awarder: University of California, Los Angeles
+        summary: University of California, Los Angeles
         start_date: 2016
         end_date: 2016
       - name: "Graduate Dean’s Scholar Award"
-        awarder: University of California, Los Angeles
+        summary: University of California, Los Angeles
         start_date: 2012
         end_date: 2014
     Other Academic Work:
@@ -425,19 +436,19 @@ cv:
           - "Stat 10: **Introduction to Statistical Reasoning** (Fall 2013, Winter 2014, Spring 2014, Fall 2014, Winter 2015, Spring 2015, Fall 2015, Winter 2016, Spring 2016)"
     Mentorship:
       - name: "Doctoral Students"
-      - awarder: Advisor
-      - highlights:
+        summary: Advisor
+        highlights:
           - "Harold Gomes (in progress)"
       - name: "Doctoral Committee"
-      - awarder: Committee Member
-      - highlights:
-          - "Yuting Chen, University of Maryland, 2025"
-          - "Ai Rene Ong, University of Michigan, 2022"
-          - "Jordan Epistola, University of Maryland, 2022"
+        summary: Committee Member
+        highlights:
+          - "Yuting Chen, University of Maryland (2025)"
+          - "Ai Rene Ong, University of Michigan (2022)"
+          - "Jordan Epistola, University of Maryland (2022)"
       - name: "Graduate Students on Funded Projects"
-      - awarder: Supervisor
-      - highlights:
-          - "Namit Shrivastava (January 2026 - May 2026)"
+        summary: Supervisor
+        highlights:
+          - "Namit Shrivastava (January 2026 – May 2026)"
           - "Ujjayini Das (September 2022 – August 2023)"
           - "Joseph Hoskisson (September 2022 – August 2023)"
           - "Franklin Yang (September 2021 – August 2022)"
@@ -457,15 +468,15 @@ cv:
       - bullet: "Member, JPSM/MPSM Teaching Assignment Committee"
     Skills:
       - name: "Statistical Software"
-        keywords: "Highly skilled in R, SQL and Python, including various packages such
+        summary: "Highly skilled in R, SQL and Python, including various packages such
           as Rcpp, caret, tidyverse, tidymodels, and more (in R); and pandas,
           scikit-learn, nltk, tensorflow, and more (in Python)."
       - name: "Statistics"
-        keywords: "Highly skilled in a variety of methods, including but not limited to
+        summary: "Highly skilled in a variety of methods, including but not limited to
           hypothesis testing, regression, mixed models, clustering analysis,
           social network analysis, social network models, network sampling
           methods, Monte Carlo simulation, Bayesian models, Machine Learning,
           text analysis, web scraping, and more."
       - name: "Other Software"
-        keywords: "Skilled or proficient in the use of many other programs, including,
+        summary: "Skilled or proficient in the use of many other programs, including,
           but not limited to, Microsoft Word, Excel and Powerpoint; LaTeX."

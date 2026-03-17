@@ -1,0 +1,40 @@
+{% comment %}
+  Unified awards entry renderer for both formats
+{% endcomment %}
+
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% for entry in entries %}
+    <li class="list-group-item">
+      <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12">
+          {% if entry.url %}
+            <h6 class="name font-weight-bold ml-1 ml-md-4">
+              <a href="{{ entry.url }}">{{ entry.name }}</a>
+            </h6>
+            
+          {% elsif entry.name %}
+            <h6 class="name font-weight-bold ml-1 ml-md-4">{{ entry.name }}</h6>
+           {% endif %}
+
+          {% if entry.position %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ entry.position }}</h6>
+          {% endif %}
+
+           {% if entry.summary %}
+             <p class="ml-1 ml-md-4">{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+          {% endif %}
+
+          {% if entry.highlights %}
+          <ul class="items">
+            {% for item in entry.highlights %}
+              <li>
+                 <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+               </li>
+           {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>
