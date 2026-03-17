@@ -389,7 +389,8 @@ cv:
         summary: University of California, Los Angeles
     Other Academic Work:
       - name: "Guest Editor"
-        date: "2022"
+        start_date: 2022
+        end_date: 2022
         highlights: 
           - "Harvard Data Science Review, Special Theme: Value of Science. Issue 4.2."
       - name: "Reviewer"
@@ -470,7 +471,7 @@ cv:
       - name: "Statistical Software"
         summary: "Highly skilled in R, SQL and Python, including various packages such
           as Rcpp, caret, tidyverse, tidymodels, and more (in R); and pandas,
-          scikit-learn, nltk, tensorflow, and more (in Python)."
+          scikit-learn, nltk, tensorflow, keras, and more (in Python)."
       - name: "Statistics"
         summary: "Highly skilled in a variety of methods, including but not limited to
           hypothesis testing, regression, mixed models, clustering analysis,
