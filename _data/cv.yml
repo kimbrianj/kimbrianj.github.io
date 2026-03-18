@@ -231,13 +231,13 @@ cv:
         releaseDate: "2020"
         url: "https://covidmap.umd.edu/api.html"
     Book Chapters and Non-Refereed Publications:
-      - title: "The Value of Science: Special Theme. Issue 4.2"
+      - title: "The Value of Science: Special Theme"
         authors: 
           - "J. Lane"
           - "**B. Kim**"
           - "F. Kreuter"
           - "A. Nunez"
-        publisher: "Harvard Data Science Review"
+        publisher: "Harvard Data Science Review. Issue 4.2"
         releaseDate: "2022"
         doi: "10.1162/99608f92.4a01213d"
         url: https://doi.org/10.1162/99608f92.4a01213d
@@ -448,10 +448,10 @@ cv:
           - "Franklin Yang (September 2021 – August 2022)"
           - "Sofi Sinozich (September 2020 – August 2021)"
       - name: "Undergraduate Capstone Projects"
-        summary: Faculty Mentor"
+        summary: Faculty Mentor
         highlights:
-          - "Pragya Kumar, Orla Collins, Giulia Hoorens van Heyningen: Assessing the Viability of Weighting Methods for Hybrid Sampling Design (2026)"
-          - "Danny Pham, Tariq Witherspoon, Andrew Shin: Machine Learning Model Selection with Complex Sample Survey Data (2026)"
+          - "Pragya Kumar, Orla Collins, Giulia Hoorens van Heyningen (2026) *Assessing the Viability of Weighting Methods for Hybrid Sampling Design*"
+          - "Danny Pham, Tariq Witherspoon, Andrew Shin (2026) *Machine Learning Model Selection with Complex Sample Survey Data*"
     Service:
       - bullet: "Faculty Coordinator, Joint Program in Survey Methodology Short Course
           Program"
