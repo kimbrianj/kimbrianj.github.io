@@ -451,7 +451,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/rendercv/rendercv_output/Brian_Kim.pdf", "_blank");
+          window.open("/assets/rendercv/rendercv_output/Brian_Kim_CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
