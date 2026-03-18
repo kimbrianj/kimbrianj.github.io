@@ -5,8 +5,15 @@ description: A [repository with curated social science datasets](https://bsos-da
 img: assets/img/bsos-data.png
 importance: 2
 category: teaching
-giscus_comments: false
 ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/bsos-data-home.png" title="BSOS Data Repository." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+The [BSOS Social Science Data Repository](https://bsos-data.umd.edu) is aimed providing clean, context-relevant, interesting, and carefully curated datasets for data science and statistics instructors within social science disciplines. 
 
 ## Motivation 
 
