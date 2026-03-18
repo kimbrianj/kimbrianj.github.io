@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Social Science Data Repository
-description: A repository with curated social science datasets for pedagogical purposes supported by an undergraduate fellowship
+description: A [repository with curated social science datasets](https://bsos-data.umd.edu) for pedagogical purposes supported by an undergraduate fellowship
 img: assets/img/bsos-data.png
 importance: 2
 category: teaching
