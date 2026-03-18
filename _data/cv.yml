@@ -37,23 +37,16 @@ cv:
         highlights:
           - Led the development of a new major in Social Data Science (officially launched Fall 2022), including working across departments to build an appropriate curriculum, managing the budget, and setting up infrastructure.
           - "Developed new courses to be part of Social Data Science, including SDSB233: Data Science for Social Sciences and SDSB326: Python Programming for Social Science."
-          - "Launched a new undergraduate Data Curation Fellowship experience in
-            which students identify, obtain, clean, and curate datasets to be
-            used within social science courses, with a public-facing data
-            resource webpage (https://bsos-data.umd.edu)."
-          - "Coordinated across colleges with the College of Information
-            Co-Director to set up advising, teaching workload, and major
-            requirements for students."
+          - "Launched a new undergraduate Data Curation Fellowship experience in which students identify, obtain, clean, and curate datasets to be
+            used within social science courses, with a public-facing data resource webpage ([https://bsos-data.umd.edu])."
+          - "Coordinated across colleges with the College of Information Co-Director to set up advising, teaching workload, and major requirements for students."
       - company: "Joint Program in Survey Methodology (JPSM), University of Maryland"
         position: Director of Graduate Studies
         start_date: "2024-09"
         end_date: "present"
         location: "College Park, MD"
         highlights:
-          - "Oversaw updates to the Master’s in Survey and Data Science program,
-            including adding SURV613: Machine Learning for Social Science as a
-            required course and incorporating neural networks and LLMs into
-            course material."
+          - "Oversaw updates to the Master’s in Survey and Data Science program, including adding SURV613: Machine Learning for Social Science as a required course and incorporating neural networks and LLMs into course material."
           - "Assisted graduate students in finding funding through grants or
             teaching assistant opportunities on campus."
           - "Chaired the Master’s Admissions committee and coordinated with the
@@ -454,6 +447,11 @@ cv:
           - "Joseph Hoskisson (September 2022 – August 2023)"
           - "Franklin Yang (September 2021 – August 2022)"
           - "Sofi Sinozich (September 2020 – August 2021)"
+      - name: "Undergraduate Capstone Projects"
+        summary: Faculty Mentor"
+        highlights:
+          - "Pragya Kumar, Orla Collins, Giulia Hoorens van Heyningen: Assessing the Viability of Weighting Methods for Hybrid Sampling Design (2026)"
+          - "Danny Pham, Tariq Witherspoon, Andrew Shin: Machine Learning Model Selection with Complex Sample Survey Data (2026)"
     Service:
       - bullet: "Faculty Coordinator, Joint Program in Survey Methodology Short Course
           Program"
@@ -463,7 +461,9 @@ cv:
       - bullet: "Chair, Search Committee for Executive Director of the Center for
           Advances in Data and Measurement"
       - bullet: "Member/Chair, JPSM/MPSM Masters Admissions Committee"
-      - bullet: "Member, School of Information Studies Lecturer Search Committee"
+      - bullet: "Member, Department of Economics Lecturer Search Committee"
+      - bullet: "Member, Department of Criminology and Criminal Justice Lecturer Search Committee"
+      - bullet: "Member, College of Information Studies Lecturer Search Committee"
       - bullet: "Member, Social Data Science Advisor Search Committee"
       - bullet: "Member, Social Data Science Steering Committee"
       - bullet: "Member, JPSM/MPSM Teaching Assignment Committee"
