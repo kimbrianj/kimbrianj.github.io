@@ -13,7 +13,7 @@ category: teaching
     </div>
 </div>
 
-The [BSOS Social Science Data Repository](https://bsos-data.umd.edu) is aimed providing clean, context-relevant, interesting, and carefully curated datasets for data science and statistics instructors within social science disciplines. 
+The [BSOS Social Science Data Repository](https://bsos-data.umd.edu) is aimed providing clean, context-relevant, interesting, and carefully curated datasets for data science and statistics instructors within social science disciplines. Search for datasets using the [search function](https://bsos-data.umd.edu/dataset/) and find out more on the [About page](https://bsos-data.umd.edu/about). 
 
 ## Motivation 
 
