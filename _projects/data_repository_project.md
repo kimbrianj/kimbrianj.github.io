@@ -1,17 +1,11 @@
 ---
 layout: page
 title: Social Science Data Repository
-description: A [repository with curated social science datasets](https://bsos-data.umd.edu) for pedagogical purposes supported by an undergraduate fellowship
+description: A repository with curated social science datasets for pedagogical purposes supported by an undergraduate fellowship
 img: assets/img/bsos-data.png
 importance: 2
 category: teaching
 ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bsos-data-home.png" title="BSOS Data Repository." class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 The [BSOS Social Science Data Repository](https://bsos-data.umd.edu) is aimed providing clean, context-relevant, interesting, and carefully curated datasets for data science and statistics instructors within social science disciplines. Search for datasets using the [search function](https://bsos-data.umd.edu/dataset/) and find out more on the [About page](https://bsos-data.umd.edu/about). 
 
@@ -40,6 +34,18 @@ Our fellowship teams of three undergraduate students work with real research dat
 The Data Curation Fellowship gives BSOS students hands-on experience in data management, documentation, and scholarly communication.
 Students learn industry-standard practices for data cleaning, quality assurance, and metadata creation while working on datasets that
 directly support faculty research and undergraduate instruction.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bsos-data-home.png" title="Data Repository home page" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/marshmallow-challenge.jpg" title="Marshmallow challenge" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Left: The banner on the BSOS Data Repository home page. Right: Faculty mentor Dr. Jacob Coutts working on the marshmallow challenge during orientation in Spring 2024.
+</div>
 
 ## Finding Data
 
