@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-social-science-data-repository",
           title: 'Social Science Data Repository',
-          description: "A [repository with curated social science datasets](https://bsos-data.umd.edu) for pedagogical purposes supported by an undergraduate fellowship",
+          description: "A repository with curated social science datasets for pedagogical purposes supported by an undergraduate fellowship",
           section: "Projects",handler: () => {
               window.location.href = "/projects/data_repository_project/";
             },},{id: "projects-jupyterhub-for-umd-bsos-courses",
