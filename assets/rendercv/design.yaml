@@ -136,8 +136,8 @@ design:
     publication_entry:
       main_column: |-
         **TITLE** 
-        *AUTHORS* 
-        PUBLISHER 
+        AUTHORS 
+        *PUBLISHER* 
         (URL)
       date_and_location_column: |-
         RELEASEDATE

@@ -93,6 +93,19 @@ cv:
             imputation with large scale transaction-level purchasing data."
           - "Developed modularized lessons and notebooks for introductory
             statistics and programming in Python, R and SQL."
+      - company: "UCLA Institute for Pure and Applied Mathematics"
+        position: "Academic Mentor"
+        start_date: 2015
+        end_date: 2017
+        location: "Los Angeles, CA"
+        highlights:
+          - "Mentored a team of four undergraduate students with a research
+            project for the Research in Industrial Projects for Students (RIPS)
+            summer program in which an industry sponsor provides a real problem of
+            interest."
+          - "Provided a cooperative team environment for research by encouraging
+            collaboration between students and advising students throughout the
+            full research lifecycle."
       - company: "UCLA Institute for Digital Research and Education"
         position: "Statistical Consultant"
         start_date: "2014-05"
@@ -106,25 +119,12 @@ cv:
             projects using methods such as mixed modeling, principal components
             analysis, simulation, and more using a variety of statistical
             software."
-      - company: "UCLA Institute for Pure and Applied Mathematics"
-        position: "Academic Mentor"
-        start_date: 2015
-        end_date: 2017
-        location: "UCLA"
-        highlights:
-          - "Mentored a team of four undergraduate students with a research
-            project for the Research in Industrial Projects for Students (RIPS)
-            summer program in which an industry sponsor provides a real problem of
-            interest."
-          - "Provided a cooperative team environment for research by encouraging
-            collaboration between students and advising students throughout the
-            full research lifecycle."
     Publications:
       - title: "Using a Stopping Rule to Optimize Cost-Quality Tradeoffs in a Large, Mixed-Mode Survey: A Simulation Study"
         authors:
           - "J. Wagner"
           - "B. West"
-          - "**B. Kim**"
+          - "B. Kim"
           - "D. Suolang"
           - "C. Engstrom"
           - "J. Sinibaldi"        
@@ -134,7 +134,7 @@ cv:
       - title: "Hidden Population Size Estimation and Diagnostics Using Two
           Respondent-Driven Samples with Applications in Armenia"
         authors:
-          - "**B. Kim**"
+          - "B. Kim"
           - "L. G. Johnston"
           - "T. Grigoryan"
           - "A. Papoyan"
@@ -146,7 +146,7 @@ cv:
       - title: "Using Geographical Data and Rolling Statistics for Diagnostics of
           Respondent-Driven Sampling"
         authors:
-          - "**B. Kim**"
+          - "B. Kim"
           - "M. Ogwal"
           - "E. Sande"
           - "H. Kiyingi"
@@ -158,14 +158,14 @@ cv:
       - title: "Population Size Estimation Using Multiple Respondent-Driven Sampling
           Surveys"
         authors: 
-          - "**B. Kim**"
+          - "B. Kim"
           - "M. Handcock"
         publisher: "Journal of Survey Statistics and Methodology. 9(1), 94-120"
         releaseDate: "2021"
         url: "https://www.doi.org/10.1093/jssam/smz055"
       - title: "Easy-to-Use Cloud Computing for Teaching Data Science"
         authors:
-          - "**B. Kim**"
+          - "B. Kim"
           - "G. Henke"
         publisher: "Journal of Statistics Education. 29:sup1, S103-S111"
         releaseDate: "2020"
@@ -182,7 +182,7 @@ cv:
           - "J. Fan"
           - "T. Galili"
           - "D. Haimovich"
-          - "**B. Kim**"
+          - "B. Kim"
           - "S. LaRocca"
           - "Y. Li"
           - "K. Morris"
@@ -201,7 +201,7 @@ cv:
         authors: 
           - "M. Handcock"
           - "K. Gile"
-          - "**B. Kim**"
+          - "B. Kim"
           - "K. McLaughlin"
         publisher: "R package version 1.0.3, Los Angeles, CA."
         releaseDate: "2022"
@@ -220,7 +220,7 @@ cv:
           - "F. Kreuter"
           - "N. Barkay"
           - "A. Bilinski"
-          - "**B. Kim**"
+          - "B. Kim"
           - "T. Galili"
           - "D. Haimovich"
           - "S. LaRocca"
@@ -235,7 +235,7 @@ cv:
       - title: "The Value of Science: Special Theme"
         authors: 
           - "J. Lane"
-          - "**B. Kim**"
+          - "B. Kim"
           - "F. Kreuter"
           - "A. Nunez"
         publisher: "Harvard Data Science Review. Issue 4.2"
@@ -244,14 +244,14 @@ cv:
         url: https://doi.org/10.1162/99608f92.4a01213d
       - title: "Scaling Up Data Science for the Social Sciences"
         authors:
-          - "**B. Kim**"
+          - "B. Kim"
         publisher: "Harvard Data Science Review. Issue 3.2"
         releaseDate: "2021"
         url: https://doi.org/10.1162/99608f92.d3f14ea4
         doi: "10.1162/99608f92.d3f14ea4"
       - title: "Workbooks"
         authors:
-          - "**B. Kim**"
+          - "B. Kim"
           - "C. Kern"
           - "J. Morgan"
           - "C. Hunter"
@@ -264,35 +264,35 @@ cv:
         releaseDate: "August 2023"
         publisher: "Joint Statistical Meetings, Toronto, CA"
         authors:
-          - "**B. Kim**"
+          - "B. Kim"
           - "A. Gard"
       - title: "Machine Learning Model Selection for Complex Sample Survey Data"
         releaseDate: "August 2020"
         publisher: "Symposium on Data Science and Statistics"
         authors:
-          - "**B. Kim**"
+          - "B. Kim"
       - title: "Data 8 Adoption at University of Maryland"
         releaseDate: "June 2020"
         publisher: "National Workshop on Data Science Education, Berkeley, CA"
         authors:
-          - "**B. Kim**"
+          - "B. Kim"
       - title: "Population Size Estimation Using Multiple Respondent-Driven Sampling
           Surveys"
         releaseDate: "August 2019"
         publisher: "Joint Statistical Meetings, Denver, CO"
         authors:
-          - "**B. Kim**"
+          - "B. Kim"
           - "M. Handcock"
       - title: "Teaching Data Science Using Jupyter Notebooks and Binder"
         releaseDate: "May 2019"
         publisher: "Symposium on Data Science and Statistics, Bellevue, WA"
         authors:
-          - "**B. Kim**"
+          - "B. Kim"
       - title: "Assessing Respondent-Driven Sampling Using Geographical Data"
         releaseDate: "November 2018"
         publisher: "North American Social Network Conference, Washington, D.C."
         authors:
-          - "**B. Kim**"
+          - "B. Kim"
           - "M. Ogwal"
           - "E. Sande"
           - "H. Kiyingi"
@@ -400,7 +400,7 @@ cv:
           - "Journal of Official Statistics"
     Teaching:
       - company: "University of Maryland"
-        position: "Instructor"
+        position: "Instructor (Undergraduate Courses)"
         start_date: "2017-10"
         end_date: "present"
         highlights:
@@ -410,6 +410,11 @@ cv:
           - "SDSB233: **Data Science for Social Sciences** (Fall 2019, Spring 2020, Spring 2022, Fall 2022, Spring 2023)"
           - "INST 314: **Statistics for Information Science** (Fall 2018)"
           - "INST 354: **Decision Making for Information Science** (Spring 2019)"
+      - company: "University of Maryland"
+        position: "Instructor (Graduate Courses)"
+        start_date: "2017-10"
+        end_date: "present"
+        highlights:
           - "SURV 613: **Machine Learning for Social Sciences** (Fall 2020, Fall 2021, Spring 2023, Spring 2024, Spring 2025, Spring 2026)"
           - "SURV 622: **Fundamentals of Data Collection** (Spring 2020, Spring 2021, Spring 2022)"
           - "SURV 673: **Introduction to Python & SQL** (Fall 2018, Spring 2019, Summer 2019, Fall 2019, Fall 2020, Summer 2020, Summer 2021)"
@@ -433,7 +438,7 @@ cv:
       - name: "Doctoral Students"
         summary: Advisor
         highlights:
-          - "Harold Gomes (in progress)"
+          - "Harold Gomes (expected 2026)"
       - name: "Doctoral Committee"
         summary: Committee Member
         highlights:
@@ -482,3 +487,5 @@ cv:
       - name: "Other Software"
         summary: "Skilled or proficient in the use of many other programs, including,
           but not limited to, Microsoft Word, Excel and Powerpoint; LaTeX."
+settings:
+  bold_keywords: ['B. Kim']
