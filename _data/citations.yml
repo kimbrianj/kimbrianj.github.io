@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-01'
 papers:
   XqhHrJcAAAAJ:2osOgNQ5qMEC:
     citations: 28
@@ -30,7 +30,7 @@ papers:
     title: "Identifying Privacy Stakeholders\u2013a Novel Mixed-Method Approach to Creating Sampling Frames of a Specialized Population"
     year: '2023'
   XqhHrJcAAAAJ:W7OEmFMy1HYC:
-    citations: 10
+    citations: 11
     title: 'sspse: Estimating hidden population size using respondent driven sampling data'
     year: '2014'
   XqhHrJcAAAAJ:WF5omc3nYNoC:
@@ -42,7 +42,7 @@ papers:
     title: "Hidden population size estimation and diagnostics using two respondent\u2010driven samples with applications in Armenia"
     year: '2023'
   XqhHrJcAAAAJ:YsMSGLbcyi4C:
-    citations: 9
+    citations: 10
     title: The University of Maryland Social Data Science Center Global COVID-19 Trends and Impact Survey
     year: '2020'
   XqhHrJcAAAAJ:_FxGoFyzp5QC:
