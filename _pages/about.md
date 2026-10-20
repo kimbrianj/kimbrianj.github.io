@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am the **undergraduate Co-Director** of the Social Data Science major in the College of Behavioral and Social Sciences, **Director of Graduate Studies** for the Survey and Data Science Master's and Ph.D. program in the Joint Program in Survey Methodology, and an **Associate Research Professor** at University of Maryland, College Park. I teach a variety of courses in data science, machine learning, statistics, and programming using both Python and R at the undergraduate and graduate levels. 
+I am the **Co-Director** of the Social Data Science major in the College of Behavioral and Social Sciences and an **Associate Research Professor** at University of Maryland, College Park. I teach a variety of courses in data science, machine learning, statistics, and programming using both Python and R at the undergraduate and graduate levels. 
 
 You can see some of my pedagogical projects on the [Projects page](/projects). These have largely been supported by various grants from NSF and University of Maryland. You can see more about my teaching and research grants in the [Grants section](/cv/#grants-and-awards-1) of my CV. Some examples of teaching material are provided in the [GitHub Repositories page](/repositories).
 
