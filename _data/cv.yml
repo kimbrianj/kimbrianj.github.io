@@ -27,7 +27,7 @@ cv:
           - "Thesis: Using Mode Identification Clustering Methods with Pitch F/X Data"
         start_date: 2008-09
     Research Interests:
-      - bullet: "Data Science Education; Applications of AI and Machine Learning in Social Science and Survey Methodology; Social Network Analysis; Network Sampling; Respondent-Driven Sampling; Population Size Estimation"
+      - bullet: "Data Science Education; Social Network Analysis; Network Sampling Methods; Respondent-Driven Sampling; Population Size Estimation: Capture-Recapture and Multiple List methods; Social Science Applications of Machine Learning"
     Experience:
       - company: College of Behavioral and Social Sciences (BSOS), University of Maryland
         position: Co-Director, Social Data Science Major
@@ -37,48 +37,46 @@ cv:
         highlights:
           - "Led development of a new interdisciplinary major in Social Data Science and acted as the founding BSOS co-director, including managing the budget, 
             setting up infrastructure, and working with partner units on campus."
-          - Launched and oversaw innovative pedagogical projects, such as a "sidecar" course program in which students take a supplementary 1-credit course alongside existing statistics and data science courses based on performance on a pre-test.
-          - "Developed computational infrastructure with a cloud computing environment and continually manage and oversee the 
-            computing environment to support students within BSOS."
-          - "Led a team of students and staff members to build a data repository hosting classroom-ready datasets and providing resources to support 
-            instructors; and launched the undergraduate Data Curation Fellowship in which students identify, obtain, clean, and curate 
-            datasets."
-          - "Served as chief data scientist for the ongoing campus-wide internal BEACON (Building Early Alerts for Campus Outreach Needs) project, which used student data 
-            from the Registrar, Dean of Students Office, campus surveys, and learning management systems with machine learning techniques to
+          - "Developed and executed a program evaluation plan and delivered an annual learning outcomes assessment report, using R and Tableau to visualize and support findings."
+          - "Served as chief data scientist for the ongoing campus-wide internal BEACON (Building Early Alerts for Campus Outreach Needs) project, which combined student data 
+            from the Registrar, Dean of Students Office, campus surveys, and learning management systems with machine learning to
             predict student outcomes, identify opportunities for intervention, and provide actionable insight for advisors." 
+          - "Oversaw computational infrastructure development for a cloud computing environment and continually manage and oversee the 
+            computing environment to support students."
+          - "Managed a team of students and staff members to build a data repository hosting classroom-ready datasets and providing resources to support 
+            instructors; and launched the Data Curation Fellowship in which students identify, obtain, clean, and curate 
+            datasets."
+
+      - company: "Joint Program in Survey Methodology (JPSM), University of Maryland"
+        position: Director of Graduate Studies
+        start_date: "2024-09"
+        end_date: "present"
+        location: "College Park, MD"
+        highlights:
+          - "Oversaw updates to the Master’s in Survey and Data Science program, such as incorporating neural networks and LLMs into course material."
+          - "Assisted graduate students in finding funding through grants or assistantship opportunities on campus."
+          - "Chaired the Master’s Admissions committee and coordinated with the Director of JPSM on recruitment efforts."
       - company: "Social Data Science; Joint Program in Survey Methodology"
         position: "Associate Research Professor"
         start_date: "2017-10"
         end_date: "present"
         location: "College Park, MD"
         highlights:
-          - "Taught classes on introductory statistics, data science, machine learning, AI, natural language processing, and other topics 
-            for both undergraduate and graduate students, incorporating innovative pedagogical techniques and utilizing traditional 
+          - "Led research projects as PI or co-PI, writing and winning grant proposals and executing the research plan from start to finish; acted as
+            analytic lead on collaborative research projects."
+          - "Taught classes on introductory statistics, data science, machine learning, 
+            and programming for both undergraduate and graduate students, utilizing traditional 
             and flipped classroom formats in online, in-person, and HyFlex modes."
-          - "Built and taught new courses for the Social Data Science major and the Survey and Data Science graduate program, such as SDSB233: Data Science for Social Science, 
-            SDSB326: Python Programming for Social Science, SURV673: Introduction to Python and SQL, 
-            and SDSB123: Social Data Science: Pathways and Applications."
-          - "Advised and mentored students; engaged graduate and undergraduate students in collaborative research and publications."
-          - "Wrote grant proposals and executed research plans."
-      - company: "Joint Program in Survey Methodology (JPSM), University of Maryland"
-        position: Director of Graduate Studies
-        start_date: "2024-09"
-        end_date: "2026-08"
-        location: "College Park, MD"
-        highlights:
-          - "Oversaw updates to the Master’s in Survey and Data Science program, such as incorporating neural networks and LLMs into course material."
-          - "Assisted graduate students in finding funding through grants or assistantship opportunities on campus."
-          - "Chaired the Master’s Admissions committee and managed recruitment efforts."
+
       - company: "The Coleridge Initiative"
         position: "Consultant/Facilitator"
         start_date: "2020-09"
         end_date: "2022-01"
         highlights:
           - "Provided guidance as a facilitator with the Applied Data Analytics
-            program for teaching data science and programming topics to working professionals in public
+            program for teaching record linkage, text analysis, network
+            analysis, and machine learning to working professionals in public
             policy."
-          - "Led workshops on record linkage, text analysis, network
-            analysis, and machine learning."
           - "Consulted on NSF NCSES projects using Survey of Earned Doctorates, Survey of Doctorate Recipients, 
             Higher Education Research and Development, and IPEDS data."
           - "Developed modularized lessons and notebooks for introductory
@@ -94,42 +92,6 @@ cv:
           - "Helped clients with their dissertations, publications, and other
             projects using methods such as mixed modeling, principal components
             analysis, simulation, and more."
-    Teaching:
-      - company: "University of Maryland"
-        position: "Instructor (Undergraduate Courses)"
-        start_date: "2017-10"
-        end_date: "present"
-        highlights:
-          - "SDSB180: **Introduction to Data Management** (Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026)"
-          - "SDSB123: **Social Data Science: Pathways and Applications** (Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026)"
-          - "SDSB326: **Python Programming for Social Science** (Spring 2024)"
-          - "SDSB233: **Data Science for Social Sciences** (Fall 2019, Spring 2020, Spring 2022, Fall 2022, Spring 2023)"
-          - "INST 314: **Statistics for Information Science** (Fall 2018)"
-          - "INST 354: **Decision Making for Information Science** (Spring 2019)"
-      - company: "University of Maryland"
-        position: "Instructor (Graduate Courses)"
-        start_date: "2017-10"
-        end_date: "present"
-        highlights:
-          - "SURV 613: **Machine Learning and AI for Social Sciences** (Fall 2020, Fall 2021, Spring 2023, Spring 2024, Spring 2025, Spring 2026)"
-          - "SURV 622: **Fundamentals of Data Collection** (Spring 2020, Spring 2021, Spring 2022)"
-          - "SURV 673: **Introduction to Python & SQL** (Fall 2018, Spring 2019, Summer 2019, Fall 2019, Fall 2020, Summer 2020, Summer 2021)"
-          - "SURV 699M: **Review of Statistical Concepts** (Summer 2018, Summer 2019, Summer 2020, Summer 2021)"
-          - "SURV 701: **Analysis of Complex Sample Survey Data** (Spring 2021)"
-          - "SURV 727: **Fundamentals of Computing and Data Display** (Fall 2022, Fall 2023, Fall 2024, Fall 2025)"
-          - "SURV 736: **Introduction to Web Scraping with R** (Summer 2025)"
-      - company: "University of California, Los Angeles"
-        position: "Instructor"
-        start_date: "2017-01"
-        end_date: "2017-03"
-        highlights:
-          - "Stat 98T: **Six Degrees of Separation: Studying the World Through Social Networks** (Winter 2017)"
-      - company: "University of California, Los Angeles"
-        position: "Teaching Assistant"
-        start_date: "2013-09"
-        end_date: "2016-06"
-        highlights:
-          - "Stat 10: **Introduction to Statistical Reasoning** (Fall 2013, Winter 2014, Spring 2014, Fall 2014, Winter 2015, Spring 2015, Fall 2015, Winter 2016, Spring 2016)"
     Publications:
       - title: "Using a Stopping Rule to Optimize Cost-Quality Tradeoffs in a Large, Mixed-Mode Survey: A Simulation Study"
         authors:
@@ -151,7 +113,7 @@ cv:
           - "A. Papoyan"
           - "S. Grigoryan"
           - "K. R. McLaughlin"
-        publisher: "Biometrical Journal, 65, 2200136"
+        publisher: "Biometrical Journal, 00, 2200136"
         releaseDate: "2023"
         url: "https://www.doi.org/10.1002/bimj.202200136"
       - title: "Using Geographical Data and Rolling Statistics for Diagnostics of
@@ -349,7 +311,7 @@ cv:
         summary: "National Science Foundation, ECR: 1956114"
         highlights: 
           - "Funding: $401,716"
-      - name: "Cooperative Agreement: Linked Dataset and Virtual Research Data Center (co-PI)"
+      - name: "Linked Dataset and Virtual Research Data Center (co-PI)"
         start_date: 2019-08
         end_date: 2024-02
         summary: "National Agricultural Statistics Service"
@@ -397,6 +359,42 @@ cv:
           - "Harvard Data Science Review"
           - "Computational Statistics and Data Analysis"
           - "Journal of Official Statistics"
+    Teaching:
+      - company: "University of Maryland"
+        position: "Instructor (Undergraduate Courses)"
+        start_date: "2017-10"
+        end_date: "present"
+        highlights:
+          - "SDSB180: **Introduction to Data Management** (Fall 2024, Spring 2025, Fall 2025, Spring 2026)"
+          - "SDSB123: **Social Data Science: Pathways and Applications** (Fall 2024, Spring 2025, Fall 2025, Spring 2026)"
+          - "SDSB326: **Python Programming for Social Science** (Spring 2024)"
+          - "SDSB233: **Data Science for Social Sciences** (Fall 2019, Spring 2020, Spring 2022, Fall 2022, Spring 2023)"
+          - "INST 314: **Statistics for Information Science** (Fall 2018)"
+          - "INST 354: **Decision Making for Information Science** (Spring 2019)"
+      - company: "University of Maryland"
+        position: "Instructor (Graduate Courses)"
+        start_date: "2017-10"
+        end_date: "present"
+        highlights:
+          - "SURV 613: **Machine Learning for Social Sciences** (Fall 2020, Fall 2021, Spring 2023, Spring 2024, Spring 2025, Spring 2026)"
+          - "SURV 622: **Fundamentals of Data Collection** (Spring 2020, Spring 2021, Spring 2022)"
+          - "SURV 673: **Introduction to Python & SQL** (Fall 2018, Spring 2019, Summer 2019, Fall 2019, Fall 2020, Summer 2020, Summer 2021)"
+          - "SURV 699M: **Review of Statistical Concepts** (Summer 2018, Summer 2019, Summer 2020, Summer 2021)"
+          - "SURV 701: **Analysis of Complex Sample Survey Data** (Spring 2021)"
+          - "SURV 727: **Fundamentals of Computing and Data Display** (Fall 2022, Fall 2023, Fall 2024, Fall 2025)"
+          - "SURV 736: **Introduction to Web Scraping with R** (Summer 2025)"
+      - company: "University of California, Los Angeles"
+        position: "Instructor"
+        start_date: "2017-01"
+        end_date: "2017-03"
+        highlights:
+          - "Stat 98T: **Six Degrees of Separation: Studying the World Through Social Networks** (Winter 2017)"
+      - company: "University of California, Los Angeles"
+        position: "Teaching Assistant"
+        start_date: "2013-09"
+        end_date: "2016-06"
+        highlights:
+          - "Stat 10: **Introduction to Statistical Reasoning** (Fall 2013, Winter 2014, Spring 2014, Fall 2014, Winter 2015, Spring 2015, Fall 2015, Winter 2016, Spring 2016)"
     Mentorship:
       - name: "Doctoral Students"
         summary: Advisor
